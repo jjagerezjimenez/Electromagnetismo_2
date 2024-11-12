@@ -1,0 +1,24 @@
+{
+   "execution": {
+      "classname": "SMAPowerByEmagHPCFrame",
+      "libname": "SMAPowerByEmagUI"
+   },
+   "inputVariables": [
+      {
+         "name": "D_Barra_L",
+         "type": "float",
+         "value": 1.0
+      },
+      {
+         "name": "D_Cilindro_ajuste",
+         "type": "float",
+         "value": 0.9
+      },
+      {
+         "name": "Corte_cable",
+         "type": "float",
+         "value": 0.0
+      }
+   ],
+   "outputVariables": []
+}
