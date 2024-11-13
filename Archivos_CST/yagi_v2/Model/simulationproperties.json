@@ -1,15 +1,21 @@
 {
     "active_solver": "HF Time Domain",
     "frequency": {
-        "maximum": 1000.0,
-        "maximum_expr": "1000",
-        "minimum": 100.0,
-        "minimum_expr": "100",
+        "maximum": 1500.0,
+        "maximum_expr": "1500",
+        "minimum": 300.0,
+        "minimum_expr": "300",
         "unit": "MHz"
+    },
+    "run_options": {
+        "optimizer_run": false,
+        "parameter_sweep_run": true,
+        "single_solver_run": true
     },
     "solver_support": {
         "HF Time Domain": {
             "dc_multi_node": true,
+            "dc_para_opt_multi_node": true,
             "gpu": true,
             "mpi": true,
             "mpi_gpu": true,
@@ -24,5 +30,5 @@
             }
         }
     },
-    "version": 2
+    "version": 3
 }

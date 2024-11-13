@@ -1,9 +1,9 @@
-'# MWS Version: Version 2022.0 - Aug 23 2021 - ACIS 31.0.1 -
+'# MWS Version: Version 2022.4 - Apr 26 2022 - ACIS 31.0.1 -
 
 '# length = cm
 '# frequency = MHz
 '# time = ns
-'# frequency range: fmin = 100 fmax = 1000
+'# frequency range: fmin = 300 fmax = 1500
 '# created = '[VERSION]2022.4|31.0.1|20220426[/VERSION]
 
 
@@ -216,7 +216,7 @@ With Cylinder
      .OuterRadius "0.1" 
      .InnerRadius "0" 
      .Axis "x" 
-     .Xrange "0.5", "6.75" 
+     .Xrange "-6.75", "6.75" 
      .Ycenter "7" 
      .Zcenter "0" 
      .Segments "0" 
@@ -577,78 +577,12 @@ With Cylinder
      .OuterRadius "0.02" 
      .InnerRadius "0" 
      .Axis "x" 
-     .Xrange "-15 + Corte_cable", "2" 
+     .Xrange "0", "-15  + Corte_cable" 
      .Ycenter "7" 
      .Zcenter "-3" 
      .Segments "0" 
      .Create 
 End With
-
-'@ define material: Polycarbonate (lossy)
-
-'[VERSION]2022.0|31.0.1|20210823[/VERSION]
-With Material
-     .Reset
-     .Name "Polycarbonate (lossy)"
-     .Folder ""
-.FrqType "all"
-.Type "Normal"
-.SetMaterialUnit "MHz", "mm"
-.Epsilon "2.9"
-.Mu "1.0"
-.Kappa "0.0"
-.TanD "0.01"
-.TanDFreq "1.0"
-.TanDGiven "True"
-.TanDModel "ConstTanD"
-.KappaM "0.0"
-.TanDM "0.0"
-.TanDMFreq "0.0"
-.TanDMGiven "False"
-.TanDMModel "ConstKappa"
-.DispModelEps "None"
-.DispModelMu "None"
-.DispersiveFittingSchemeEps "General 1st"
-.DispersiveFittingSchemeMu "General 1st"
-.UseGeneralDispersionEps "False"
-.UseGeneralDispersionMu "False"
-.Rho "1200.0"
-.ThermalType "Normal"
-.ThermalConductivity "0.19"
-.SpecificHeat "1200", "J/K/kg"
-.SetActiveMaterial "all"
-.MechanicsType "Isotropic"
-.YoungsModulus "2.0"
-.PoissonsRatio "0.37"
-.ThermalExpansionRate "65"
-.Colour "0.94", "0.82", "0.76"
-.Wireframe "False"
-.Transparency "0"
-.Create
-End With
-
-'@ define cylinder: cable:aislante
-
-'[VERSION]2022.0|31.0.1|20210823[/VERSION]
-With Cylinder 
-     .Reset 
-     .Name "aislante" 
-     .Component "cable" 
-     .Material "Polycarbonate (lossy)" 
-     .OuterRadius "0.08" 
-     .InnerRadius "0.02" 
-     .Axis "x" 
-     .Xrange "1.5", "-14.8 + Corte_cable" 
-     .Ycenter "7" 
-     .Zcenter "-3" 
-     .Segments "0" 
-     .Create 
-End With
-
-'@ boolean add shapes: cable:alambre, cable:aislante
-
-'[VERSION]2022.0|31.0.1|20210823[/VERSION]
-Solid.Add "cable:alambre", "cable:aislante"
 
 '@ new component: ajuste cilindro
 
@@ -686,7 +620,7 @@ With Brick
      .Name "ajuste barra lateral" 
      .Component "ajuste barra lateral" 
      .Material "Aluminum" 
-     .Xrange "-0.55 - D_Barra_L", "-2.55 - D_Barra_L" 
+     .Xrange "-0.55 - D_Barra_L", "-1.55 - D_Barra_L" 
      .Yrange "6.7", "7.3" 
      .Zrange "-4", "0.5" 
      .Create
@@ -767,6 +701,11 @@ Pick.PickCenterpointFromId "soporte de abajo:barra perpendicular", "9"
 
 '[VERSION]2022.0|31.0.1|20210823[/VERSION]
 Pick.PickCirclecenterFromId "cable:alambre", "6"
+
+'@ pick circle center point
+
+'[VERSION]2022.4|31.0.1|20220426[/VERSION]
+Pick.PickCirclecenterFromId "cable:alambre", "2"
 
 '@ define discrete port: 1
 
@@ -976,4 +915,127 @@ With FarfieldPlot
 
      .StoreSettings
 End With
+
+'@ define cylinder: cable:solid1
+
+'[VERSION]2022.4|31.0.1|20220426[/VERSION]
+With Cylinder 
+     .Reset 
+     .Name "solid1" 
+     .Component "cable" 
+     .Material "Copper (pure)" 
+     .OuterRadius "2" 
+     .InnerRadius "0" 
+     .Axis "z" 
+     .Zrange "-1.4", "0" 
+     .Xcenter "-10" 
+     .Ycenter "10" 
+     .Segments "0" 
+     .Create 
+End With
+
+'@ delete shape: cable:solid1
+
+'[VERSION]2022.4|31.0.1|20220426[/VERSION]
+Solid.Delete "cable:solid1"
+
+'@ define cylinder: cable:aislante
+
+'[VERSION]2022.4|31.0.1|20220426[/VERSION]
+With Cylinder 
+     .Reset 
+     .Name "aislante" 
+     .Component "cable" 
+     .Material "Aluminum" 
+     .OuterRadius "0.11" 
+     .InnerRadius "0.02" 
+     .Axis "x" 
+     .Xrange "-0.5", "-14.5 + Corte_cable" 
+     .Ycenter "7" 
+     .Zcenter "-3" 
+     .Segments "0" 
+     .Create 
+End With
+
+'@ change material: cable:aislante to: Vacuum
+
+'[VERSION]2022.4|31.0.1|20220426[/VERSION]
+Solid.ChangeMaterial "cable:aislante", "Vacuum"
+
+'@ delete shape: varillas:antena_2
+
+'[VERSION]2022.4|31.0.1|20220426[/VERSION]
+Solid.Delete "varillas:antena_2"
+
+'@ delete component: soporte de abajo
+
+'[VERSION]2022.4|31.0.1|20220426[/VERSION]
+Component.Delete "soporte de abajo"
+
+'@ delete port: port1
+
+'[VERSION]2022.4|31.0.1|20220426[/VERSION]
+Port.Delete "1"
+
+'@ define discrete port: 1
+
+'[VERSION]2022.4|31.0.1|20220426[/VERSION]
+With DiscretePort 
+     .Reset 
+     .PortNumber "1" 
+     .Type "SParameter"
+     .Label ""
+     .Folder ""
+     .Impedance "50.0"
+     .VoltagePortImpedance "0.0"
+     .Voltage "1.0"
+     .Current "1.0"
+     .Monitor "True"
+     .Radius "0.0"
+     .SetP1 "False", "0.0", "7", "-0.5"
+     .SetP2 "False", "0.0", "7", "-3"
+     .InvertDirection "False"
+     .LocalCoordinates "False"
+     .Wire ""
+     .Position "end1"
+     .Create 
+End With
+
+'@ delete monitors
+
+'[VERSION]2022.4|31.0.1|20220426[/VERSION]
+Monitor.Delete "current-density (f=1000)" 
+Monitor.Delete "e-energy (f=1000)" 
+Monitor.Delete "e-field (f=1000)" 
+Monitor.Delete "farfield (f=1000)" 
+Monitor.Delete "h-energy (f=1000)" 
+Monitor.Delete "h-field (f=1000)"
+
+'@ define time domain solver parameters
+
+'[VERSION]2022.4|31.0.1|20220426[/VERSION]
+Mesh.SetCreator "High Frequency" 
+
+With Solver 
+     .Method "Hexahedral"
+     .CalculationType "TD-S"
+     .StimulationPort "All"
+     .StimulationMode "All"
+     .SteadyStateLimit "-20"
+     .MeshAdaption "False"
+     .AutoNormImpedance "False"
+     .NormingImpedance "50"
+     .CalculateModesOnly "False"
+     .SParaSymmetry "False"
+     .StoreTDResultsInCache  "False"
+     .RunDiscretizerOnly "False"
+     .FullDeembedding "False"
+     .SuperimposePLWExcitation "False"
+     .UseSensitivityAnalysis "False"
+End With
+
+'@ define frequency range
+
+'[VERSION]2022.4|31.0.1|20220426[/VERSION]
+Solver.FrequencyRange "300", "1500"
 

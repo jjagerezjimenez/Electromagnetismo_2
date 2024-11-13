@@ -25,8 +25,8 @@ PortSourceGroups:
 FloquetPortSourceGroups:
 SchematicPortSourceGroups:
 Number of frequency-points: 1
-Fmin: 1.000000e+08
-Fmax: 1.000000e+09
+Fmin: 3.000000e+08
+Fmax: 1.500000e+09
 Fscale: 1.000000e+06
 
 
@@ -39,9 +39,9 @@ Portname: 1
 Modenumber: 1
 Modetype: 6
 Zline: 5.000000e+01 0.000000e+00
-Fdev: 5.500000e+08
-Fmin: 1.000000e+08
-Fmax: 1.000000e+09
+Fdev: 9.000000e+08
+Fmin: 3.000000e+08
+Fmax: 1.500000e+09
 PortModeConsState: 0
 *** endmode
 
@@ -49,70 +49,4 @@ PortModeConsState: 0
 
 
 
-
-*** newmonitor
-monname: "farfield (f=1000)"
-nmonfrequencies: 1
-monfrequencies: "1000" 
-montype: 18
-mondomain: 1
-mon_fmin: ""
-mon_fmax: ""
-mon_nfSteps: ""
-*** endmonitor
-
-*** newmonitor
-monname: "e-energy (f=1000)"
-nmonfrequencies: 1
-monfrequencies: "1000" 
-montype: 7
-mondomain: 1
-mon_fmin: ""
-mon_fmax: ""
-mon_nfSteps: ""
-*** endmonitor
-
-*** newmonitor
-monname: "h-energy (f=1000)"
-nmonfrequencies: 1
-monfrequencies: "1000" 
-montype: 8
-mondomain: 1
-mon_fmin: ""
-mon_fmax: ""
-mon_nfSteps: ""
-*** endmonitor
-
-*** newmonitor
-monname: "current-density (f=1000)"
-nmonfrequencies: 1
-monfrequencies: "1000" 
-montype: 5
-mondomain: 1
-mon_fmin: ""
-mon_fmax: ""
-mon_nfSteps: ""
-*** endmonitor
-
-*** newmonitor
-monname: "h-field (f=1000)"
-nmonfrequencies: 1
-monfrequencies: "1000" 
-montype: 1
-mondomain: 1
-mon_fmin: ""
-mon_fmax: ""
-mon_nfSteps: ""
-*** endmonitor
-
-*** newmonitor
-monname: "e-field (f=1000)"
-nmonfrequencies: 1
-monfrequencies: "1000" 
-montype: 0
-mondomain: 1
-mon_fmin: ""
-mon_fmax: ""
-mon_nfSteps: ""
-*** endmonitor
 

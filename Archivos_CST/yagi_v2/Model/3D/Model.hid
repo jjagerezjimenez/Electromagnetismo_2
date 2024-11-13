@@ -2,7 +2,7 @@
 [start]hidden_objects
 [end]hidden_objects
 [start]draw_workplane
-true
+false
 [end]draw_workplane
 [start]draw_bounding_box
 true
@@ -15,6 +15,11 @@ false
 [end]draw_port_wireframe
 [start]navigation_tree_text_files
 [end]navigation_tree_text_files
+[start]history_expert_mode
+[start]2024_11_13
+delete(26 );
+[end]2024_11_13
+[end]history_expert_mode
 [start]history_fast_undo
 [start]undo_item
 [start]block_index
@@ -24,22 +29,6 @@ false
 [end]command
 [start]content
 Solid.Delete "component1:reflector"
-[end]content
-[start]recover_picks
-1
-[end]recover_picks
-[start]delete_solids
-1
-[end]delete_solids
-[end]undo_item
-[start]undo_item
-[start]block_index
-5
-[end]block_index
-[start]command
-[end]command
-[start]content
-Solid.Delete "component1:antena_1"
 [end]content
 [start]recover_picks
 1
@@ -167,9 +156,7 @@ Port.Delete "1"
 [start]command
 [end]command
 [start]content
-
 Solid.Delete "component2:barra central"
-
 [end]content
 [start]recover_picks
 1
@@ -185,15 +172,58 @@ Solid.Delete "component2:barra central"
 [start]command
 [end]command
 [start]content
-
 Solid.Delete "component3:agujero barra vertical"
-
 [end]content
 [start]recover_picks
 1
 [end]recover_picks
 [start]delete_solids
 1
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+38
+[end]block_index
+[start]command
+[end]command
+[start]content
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+0
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+39
+[end]block_index
+[start]command
+[end]command
+[start]content
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+0
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+40
+[end]block_index
+[start]command
+[end]command
+[start]content
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+0
 [end]delete_solids
 [end]undo_item
 [start]undo_item
@@ -201,8 +231,11 @@ Solid.Delete "component3:agujero barra vertical"
 41
 [end]block_index
 [start]command
+'@ define discrete port: 1
+ (undo)
 [end]command
 [start]content
+Port.Delete "1"
 [end]content
 [start]recover_picks
 1
@@ -213,22 +246,23 @@ Solid.Delete "component3:agujero barra vertical"
 [end]undo_item
 [start]undo_item
 [start]block_index
-42
+49
 [end]block_index
 [start]command
 [end]command
 [start]content
+Solid.Delete "cable:solid1"
 [end]content
 [start]recover_picks
 1
 [end]recover_picks
 [start]delete_solids
-0
+1
 [end]delete_solids
 [end]undo_item
 [start]undo_item
 [start]block_index
-43
+56
 [end]block_index
 [start]command
 

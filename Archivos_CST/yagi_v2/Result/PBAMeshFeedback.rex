@@ -4,7 +4,7 @@
   <SimulationProperties fieldname="&lt;name missing&gt;" frequency="0" encoded_unit="&amp;U" fieldscaling="UNDEFINED"/>
   <ResultDataType vector="0" complex="0" timedomain="0" frequencymap="0"/>
   <SimulationDomain min="0 0 0" max="0 0 0"/>
-  <PlotSettings Plot="4" ignore_symmetry="0" deformation="0" enforce_culling="0" default_arrow_type="ARROWS"/>
+  <PlotSettings Plot="4" ignore_symmetry="0" deformation="0" enforce_culling="0" integer_values="0" default_arrow_type="ARROWS" default_scaling="NONE"/>
   <Source type="SOLVER"/>
   <SpecialMaterials>
     <Background type="NORMAL"/>

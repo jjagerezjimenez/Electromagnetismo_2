@@ -1,19 +1,7 @@
-cable:alambre
-0
-1
-ajuste cilindro:cilindro de ajuste
-0
-1
-ajuste barra lateral:ajuste barra lateral
-0
-1
 varillas:reflector
 0
 1
 varillas:antena_1
-0
-1
-varillas:antena_2
 0
 1
 varillas:dir-1
@@ -25,9 +13,18 @@ varillas:dir-2
 varillas:dir-3
 0
 1
+cable:alambre
+0
+1
+cable:aislante
+0
+1
+ajuste barra lateral:ajuste barra lateral
+0
+1
 barra central:barra central
 0
 1
-soporte de abajo:barra perpendicular
+ajuste cilindro:cilindro de ajuste
 0
 1

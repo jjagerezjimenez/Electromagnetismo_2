@@ -2,9 +2,9 @@
     "parameters": [
         {
             "descr": "desplazamioento de la barra laterla en cm",
-            "expr": "1",
+            "expr": "1.5",
             "name": "D_Barra_L",
-            "value": "1"
+            "value": "1.5"
         },
         {
             "descr": "desplazamniento del cilindro lateral en cm",
@@ -14,9 +14,9 @@
         },
         {
             "descr": "cm de cable que quiero cortar",
-            "expr": "0",
+            "expr": "4",
             "name": "Corte_cable",
-            "value": "0"
+            "value": "4"
         }
     ],
     "version": 1

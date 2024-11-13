@@ -4,8 +4,8 @@
 [PCB_IMPORT: False]
 [PCB_IMPORT_NEW: False]
 [DISABLE_FAST_LOAD: False]
-[BBOX:-28.626929909090912 21.876929909090912 -18.626929909090912 52.626929909090912 -17.626929909090912 14.12692990909091]
-[BBOX_STRUCTURE:-15 8.25 -5 39 -4 0.5]
+[BBOX:-19.327568277777779 16.577568277777779 -13.327568277777777 47.327568277777779 -12.327568277777777 8.8275682777777771]
+[BBOX_STRUCTURE:-11 8.25 -5 39 -4 0.5]
 [UNITS]
      .Geometry "cm" 
      .Frequency "MHz" 
@@ -20,7 +20,7 @@
      .SetResultUnit "frequency", "frequency", "" 
 [ENDUNITS]
 [FREQUENCYRANGE]
-Solver.FrequencyRange "100", "1000" 
+Solver.FrequencyRange "300", "1500" 
 [ENDFREQUENCYRANGE]
 [BACKGROUND]
      .XminSpace "0.0" 
@@ -378,67 +378,6 @@ Solver.FrequencyRange "100", "1000"
      .Transparency "0" 
      .Create
 [ENDMATERIAL]
-[MATERIAL: Polycarbonate (lossy)]
-     .Rho "1200.0"
-     .ThermalType "Normal"
-     .ThermalConductivity "0.19"
-     .SpecificHeat "1200", "J/K/kg"
-     .DynamicViscosity "0"
-     .Emissivity "0"
-     .MetabolicRate "0.0"
-     .VoxelConvection "0.0"
-     .BloodFlow "0"
-     .MechanicsType "Isotropic"
-     .YoungsModulus "2.0"
-     .PoissonsRatio "0.37"
-     .ThermalExpansionRate "65"
-     .IntrinsicCarrierDensity "0"
-     .FrqType "all"
-     .Type "Normal"
-     .MaterialUnit "Frequency", "MHz"
-     .MaterialUnit "Geometry", "mm"
-     .MaterialUnit "Time", "s"
-     .Epsilon "2.9"
-     .Mu "1.0"
-     .Sigma "0.0"
-     .TanD "0.01"
-     .TanDFreq "1.0"
-     .TanDGiven "True"
-     .TanDModel "ConstTanD"
-     .SetConstTanDStrategyEps "AutomaticOrder"
-     .ConstTanDModelOrderEps "3"
-     .DjordjevicSarkarUpperFreqEps "0"
-     .SetElParametricConductivity "False"
-     .ReferenceCoordSystem "Global"
-     .CoordSystemType "Cartesian"
-     .SigmaM "0.0"
-     .TanDM "0.0"
-     .TanDMFreq "0.0"
-     .TanDMGiven "False"
-     .TanDMModel "ConstSigma"
-     .SetConstTanDStrategyMu "AutomaticOrder"
-     .ConstTanDModelOrderMu "3"
-     .DjordjevicSarkarUpperFreqMu "0"
-     .SetMagParametricConductivity "False"
-     .DispModelEps "None"
-     .DispModelMu "None"
-     .DispersiveFittingSchemeEps "1st Order"
-     .DispersiveFittingSchemeMu "1st Order"
-     .UseGeneralDispersionEps "False"
-     .UseGeneralDispersionMu "False"
-     .NLAnisotropy "False"
-     .NLAStackingFactor "1"
-     .NLADirectionX "1"
-     .NLADirectionY "0"
-     .NLADirectionZ "0"
-     .Colour "0.94", "0.82", "0.76" 
-     .Wireframe "False" 
-     .Reflection "False" 
-     .Allowoutline "True" 
-     .Transparentoutline "False" 
-     .Transparency "0" 
-     .Create
-[ENDMATERIAL]
 [MATERIAL: Vacuum]
      .Rho "0.0"
      .ThermalType "Normal"
@@ -579,8 +518,8 @@ Solver.FrequencyRange "100", "1000"
      .Current "1.0"
      .Monitor "True"
      .Radius "0"
-     .SetP1 "True", "0.40000000000000002", "7", "-2.2414895324553239"
-     .SetP2 "True", "2", "7", "-3"
+     .SetP1 "False", "0", "7", "-0.5"
+     .SetP2 "False", "0", "7", "-3"
      .InvertDirection "False"
      .LocalCoordinates "False"
      .Wire ""
