@@ -7,17 +7,17 @@
       {
          "name": "D_Barra_L",
          "type": "float",
-         "value": 1.5
+         "value": 0.0
       },
       {
          "name": "D_Cilindro_ajuste",
          "type": "float",
-         "value": 0.9
+         "value": 6.75
       },
       {
          "name": "Corte_cable",
          "type": "float",
-         "value": 4.0
+         "value": 0.0
       }
    ],
    "outputVariables": []

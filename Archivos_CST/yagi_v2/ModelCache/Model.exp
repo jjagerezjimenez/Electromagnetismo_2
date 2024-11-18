@@ -1,7 +1,7 @@
 @CACHEFILEVERSION 2
 @DOUBLE
--14.5# + Corte_cable
--10.5
--15#  + Corte_cable
--11
+-0.5# - D_Cilindro_ajuste
+-7.25
+-7# - D_Cilindro_ajuste
+-13.75
 @LONG

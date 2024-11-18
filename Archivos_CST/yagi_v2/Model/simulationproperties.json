@@ -7,15 +7,9 @@
         "minimum_expr": "300",
         "unit": "MHz"
     },
-    "run_options": {
-        "optimizer_run": false,
-        "parameter_sweep_run": true,
-        "single_solver_run": true
-    },
     "solver_support": {
         "HF Time Domain": {
             "dc_multi_node": true,
-            "dc_para_opt_multi_node": true,
             "gpu": true,
             "mpi": true,
             "mpi_gpu": true,
@@ -30,5 +24,5 @@
             }
         }
     },
-    "version": 3
+    "version": 2
 }

@@ -10,13 +10,37 @@
             "Sequence 1": [
                 {
                     "from": "0",
-                    "step width": "2",
-                    "to": "14",
+                    "step width": "0.555",
+                    "to": "15",
                     "type": "linear",
                     "varname": "Corte_cable"
                 },
                 {
                     "index": 1
+                }
+            ],
+            "Sequence 2": [
+                {
+                    "from": "0",
+                    "step width": "0.25",
+                    "to": "6.75",
+                    "type": "linear",
+                    "varname": "D_Barra_L"
+                },
+                {
+                    "index": 2
+                }
+            ],
+            "Sequence 3": [
+                {
+                    "from": "0",
+                    "step width": "0.25",
+                    "to": "6.75",
+                    "type": "linear",
+                    "varname": "D_Cilindro_ajuste"
+                },
+                {
+                    "index": 3
                 }
             ]
         },
