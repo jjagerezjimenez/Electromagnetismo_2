@@ -1,14 +1,14 @@
-13/Nov/2024 11:54:46  
-                      Solver started at: 11:54 AM Wednesday, 13. November 2024 (Hora estándar de Argentina)
+18/Nov/2024 19:41:53  
+                      Solver started at: 07:41 PM Monday, 18. November 2024 (Hora estándar de Argentina)
                       
                         Module:  Time Domain: S-Parameter (Win 64)
-                        Version: 2022.4 Release from 2022-04-26 (change 967892)
+                        Version: 2022.0 Release from 2021-08-23 (change 895802)
                       
 
                       ------------------------------------------------------------------------------
 
                       ------------------------------------------------------------------------------
-13/Nov/2024 11:54:46  ======================================================================
+18/Nov/2024 19:41:53  ======================================================================
                        Solver cycle: 1
                       ======================================================================
                       
@@ -17,73 +17,134 @@
                       
                       
                       ------------------------------------------------------------------------------
-13/Nov/2024 11:54:46  Units settings: 
+18/Nov/2024 19:41:53  Units settings: 
                       
                         Dimensions: cm
                         Frequency:  MHz
                         Time:       ns
                       
                       ------------------------------------------------------------------------------
-13/Nov/2024 11:54:46  The dispersive material update [Automatic] will be performed using the "Standard" update schema
+18/Nov/2024 19:41:53  The dispersive material update [Automatic] will be performed using the "Standard" update schema
                       
                       ------------------------------------------------------------------------------
-13/Nov/2024 11:56:13  
+18/Nov/2024 19:42:06  The following discrete edge port is connected to metal material:
+                      	1
+                      
+                      ------------------------------------------------------------------------------
+18/Nov/2024 19:42:07  Mesh statistics:
+                      
+                         Hexahedral mesh type: PERFECT BOUNDARY APPROXIMATION (PBA) (R)
+                            Version: default
+                      
+                         Parallelization type: domain decomposition
+                            Number of parallel working threads: 22
+                            Number of calculation domains used: 24
+                      
+                         Used point accuracy enhancement value: 0.00%.
+                         Acceleration mode: CPU
+                         PBA fill limit: 92.84% (inverse)
+18/Nov/2024 19:41:54     current system memory usage reached 55%
+
+18/Nov/2024 19:42:08  Boundary conditions: 
+                      
+                        YZsymmetry: none
+                        XZsymmetry: none
+                        XYsymmetry: none
+                      
+                        Xmin: expanded open, 4 Layer, depth 4.60527 cm
+                        Xmax: expanded open, 4 Layer, depth 4.60527 cm
+                      
+                        Ymin: expanded open, 4 Layer, depth 4.59148 cm
+                        Ymax: expanded open, 4 Layer, depth 4.59148 cm
+                      
+                        Zmin: expanded open, 4 Layer, depth 4.59148 cm
+                        Zmax: expanded open, 4 Layer, depth 4.59148 cm
+                      
+                        PML-Type: Convolution PML
+                      
+                      ------------------------------------------------------------------------------
+18/Nov/2024 19:42:08  Frequency settings: 
+                      
+                        Fmin:         300
+                        Fmax:         1500
+                        Nfsteps(lin): 1001
+                      
+                      ------------------------------------------------------------------------------
+18/Nov/2024 19:42:08  Field update statistics:
+                      
+                        Number of components in total: 	3023509
+                        Number of TST elements:		572
+                        Number of lossy metal components:	10460
+                      
+                      Subcycling state:      Automatically deactivated
+                      
+                      ------------------------------------------------------------------------------
+18/Nov/2024 19:42:08  Port: 1
+                      
+18/Nov/2024 19:42:08    Discrete element, reference impedance = 50 Ohm
+                      
+                      ------------------------------------------------------------------------------
+18/Nov/2024 19:42:26  
                       --------------------------------------------------------------------------------
-13/Nov/2024 11:56:13  *** Warning ***
-                      
-13/Nov/2024 11:56:13  Solver run aborted by user (discarding results).
+18/Nov/2024 19:42:26  Steady state energy criterion met, solver finished successfully.
                       
                       ------------------------------------------------------------------------------
-13/Nov/2024 11:56:13  Frequency domain results unnormalized.
+18/Nov/2024 19:42:26  Frequency domain results normalized to default signal.
                       
                       
                       ------------------------------------------------------------------------------
-13/Nov/2024 11:56:13  
+18/Nov/2024 19:42:26  
                         ----------------------------------------------------------------------------
                                             Peak memory used (kB)         Free physical memory (kB) 
                                                                           At begin     Minimum      
                         ----------------------------------------------------------------------------
-                        Matrices calc.      0                             0            0            
-                        Solver run total    45044                         6677516      6120424      
+                        CAD preparation     20500                         16010304     16010304     
+                        Matrices calc.      341612                        15587890     15376953     
+                        Solver run total    139244                        16028340     15778696     
                         ----------------------------------------------------------------------------
                       
                       --------------------------------------------------------------------------------
                       Solver Statistics:
                       
                         Hardware:
-                           Computer name:                 	DESKTOP-J6PE05U 
+                           Computer name:                 	DESKTOP-9T44F5I 
                       
-                           Number of CPU threads:               4
+                           Number of CPU threads:               12
                            Hardware info:                  	Hardware Accelerator Device not activated
                       
-                        Number of mesh cells:             	498623
-                        Excitation duration:              	0.00000000e+000 ns 
-                        Calculation time for excitation:  	0 	s
-                        Number of calculated pulse widths:	0 
-                        Simulated number of time steps:   	0 
-                        Maximum number of time steps:     	0 
+                        Number of mesh cells:             	493782
+                        Excitation duration:              	5.92424791e+000 ns 
+                        Calculation time for excitation:  	5 	s
+                        Number of calculated pulse widths:	3.87702 
+                        Steady state accuracy limit:      	-20	dB 
+                        Simulated number of time steps:   	13728 
+                        Maximum number of time steps:     	70817 
                         Time step width:
-                           without subcycles:             	0.000000000e+000 ns
-                           used:                          	0.000000000e+000 ns
+                           without subcycles:             	1.673106146e-003 ns
+                           used:                          	1.673106146e-003 ns
                       
-                        Matrix calculation time:          	0 	s
-                        Solver setup time:                	0 	s
-                        Solver loop time:                 	0 	s
+                        CAD preparation time:             	0      	s
+                        Matrix calculation time:          	13 	s
+                        Solver setup time:                	1 	s
+                        Solver loop time:                 	17 	s
                         Solver post-processing time:      	0 	s
                                                           	------------
-                        Total solver time:                	0 	s
+                        Total solver time:                	31 	s
                       
                       ------------------------------------------------------------------------------
-13/Nov/2024 11:56:14  
+18/Nov/2024 19:42:26  
                         Adaptive port meshing time:          	0      	s
-                        Total solver time (all cycles):      	0      	s
-                        Solver initialization and clean-up:  	88     	s  ( = 0 h, 1 m, 28 s )
+                        Total solver time (all cycles):      	31     	s
+                        Solver initialization and clean-up:  	2      	s
                                                              	------------
-                        Total simulation time:               	88     	s  ( = 0 h, 1 m, 28 s )
+                        Total simulation time:               	33     	s
                       
                       ------------------------------------------------------------------------------
-13/Nov/2024 11:56:14  Solver finished at: 11:56 AM Wednesday, 13. November 2024
+18/Nov/2024 19:42:26  Solver finished at: 07:42 PM Monday, 18. November 2024
                       
                       
+                      
+                      ------------------------------------------------------------------------------
+18/Nov/2024 19:42:27  Creating parametric 1D results for Run ID 84
                       
                       ------------------------------------------------------------------------------

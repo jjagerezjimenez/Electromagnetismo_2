@@ -10,8 +10,8 @@ Geometry processor: default
 	Flanges hollow: true
 	One shape per flange: false
 	Multi threading: true
-		max # of threads used: 8
-		requested max # of threads: 8
+		max # of threads used: 24
+		requested max # of threads: 24
 		representation: indexed
 		method: multi thread
 		retry: no

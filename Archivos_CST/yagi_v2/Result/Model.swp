@@ -1,33 +1,691 @@
-13/Nov/2024 11:48:15  ==========================================================================
+18/Nov/2024 18:45:28  ==========================================================================
                       Sequence: Sequence 1
                       ==========================================================================
 
-13/Nov/2024 11:48:15  --------------------------------------------------------------------------
+18/Nov/2024 18:45:28  --------------------------------------------------------------------------
                       Parameter Values: 
                       
                          Corte_cable = 0
-13/Nov/2024 11:48:16  
+18/Nov/2024 18:45:28  
                       Structure update: Successful
-13/Nov/2024 11:51:32            Solver: Successful
-13/Nov/2024 11:51:32       Solver time: 0 hours, 3 min., 16 sec.
-13/Nov/2024 11:51:32  --------------------------------------------------------------------------
+18/Nov/2024 18:46:32            Solver: Successful
+18/Nov/2024 18:46:32       Solver time: 0 hours, 1 min., 4 sec.
+18/Nov/2024 18:46:32  --------------------------------------------------------------------------
                       Parameter Values: 
                       
-                         Corte_cable = 2
-13/Nov/2024 11:51:33  
+                         Corte_cable = 0.555
+18/Nov/2024 18:46:32  
                       Structure update: Successful
-13/Nov/2024 11:54:40            Solver: Successful
-13/Nov/2024 11:54:40       Solver time: 0 hours, 3 min., 7 sec.
-13/Nov/2024 11:54:40  --------------------------------------------------------------------------
+18/Nov/2024 18:47:29            Solver: Successful
+18/Nov/2024 18:47:29       Solver time: 0 hours, 0 min., 57 sec.
+18/Nov/2024 18:47:29  --------------------------------------------------------------------------
                       Parameter Values: 
                       
-                         Corte_cable = 4
-13/Nov/2024 11:54:42  
+                         Corte_cable = 1.11
+18/Nov/2024 18:47:29  
                       Structure update: Successful
-13/Nov/2024 11:56:14            Solver: Aborted
-13/Nov/2024 11:56:14       Solver time: 0 hours, 1 min., 32 sec.
-13/Nov/2024 11:56:14  --------------------------------------------------------------------------
-13/Nov/2024 11:56:14  
+18/Nov/2024 18:48:25            Solver: Successful
+18/Nov/2024 18:48:25       Solver time: 0 hours, 0 min., 56 sec.
+18/Nov/2024 18:48:25  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Corte_cable = 1.665
+18/Nov/2024 18:48:26  
+                      Structure update: Successful
+18/Nov/2024 18:49:21            Solver: Successful
+18/Nov/2024 18:49:21       Solver time: 0 hours, 0 min., 55 sec.
+18/Nov/2024 18:49:21  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Corte_cable = 2.22
+18/Nov/2024 18:49:21  
+                      Structure update: Successful
+18/Nov/2024 18:50:16            Solver: Successful
+18/Nov/2024 18:50:16       Solver time: 0 hours, 0 min., 55 sec.
+18/Nov/2024 18:50:16  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Corte_cable = 2.775
+18/Nov/2024 18:50:16  
+                      Structure update: Successful
+18/Nov/2024 18:50:45            Solver: Successful
+18/Nov/2024 18:50:45       Solver time: 0 hours, 0 min., 29 sec.
+18/Nov/2024 18:50:45  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Corte_cable = 3.33
+18/Nov/2024 18:50:45  
+                      Structure update: Successful
+18/Nov/2024 18:51:39            Solver: Successful
+18/Nov/2024 18:51:39       Solver time: 0 hours, 0 min., 54 sec.
+18/Nov/2024 18:51:39  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Corte_cable = 3.885
+18/Nov/2024 18:51:39  
+                      Structure update: Successful
+18/Nov/2024 18:52:33            Solver: Successful
+18/Nov/2024 18:52:33       Solver time: 0 hours, 0 min., 54 sec.
+18/Nov/2024 18:52:33  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Corte_cable = 4.44
+18/Nov/2024 18:52:34  
+                      Structure update: Successful
+18/Nov/2024 18:53:27            Solver: Successful
+18/Nov/2024 18:53:27       Solver time: 0 hours, 0 min., 53 sec.
+18/Nov/2024 18:53:27  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Corte_cable = 4.995
+18/Nov/2024 18:53:28  
+                      Structure update: Successful
+18/Nov/2024 18:54:21            Solver: Successful
+18/Nov/2024 18:54:21       Solver time: 0 hours, 0 min., 53 sec.
+18/Nov/2024 18:54:21  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Corte_cable = 5.55
+18/Nov/2024 18:54:22  
+                      Structure update: Successful
+18/Nov/2024 18:55:17            Solver: Successful
+18/Nov/2024 18:55:17       Solver time: 0 hours, 0 min., 55 sec.
+18/Nov/2024 18:55:17  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Corte_cable = 6.105
+18/Nov/2024 18:55:18  
+                      Structure update: Successful
+18/Nov/2024 18:56:12            Solver: Successful
+18/Nov/2024 18:56:12       Solver time: 0 hours, 0 min., 54 sec.
+18/Nov/2024 18:56:12  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Corte_cable = 6.66
+18/Nov/2024 18:56:12  
+                      Structure update: Successful
+18/Nov/2024 18:57:03            Solver: Successful
+18/Nov/2024 18:57:03       Solver time: 0 hours, 0 min., 51 sec.
+18/Nov/2024 18:57:03  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Corte_cable = 7.215
+18/Nov/2024 18:57:04  
+                      Structure update: Successful
+18/Nov/2024 18:57:56            Solver: Successful
+18/Nov/2024 18:57:56       Solver time: 0 hours, 0 min., 52 sec.
+18/Nov/2024 18:57:56  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Corte_cable = 7.77
+18/Nov/2024 18:57:56  
+                      Structure update: Successful
+18/Nov/2024 18:58:48            Solver: Successful
+18/Nov/2024 18:58:48       Solver time: 0 hours, 0 min., 52 sec.
+18/Nov/2024 18:58:48  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Corte_cable = 8.325
+18/Nov/2024 18:58:49  
+                      Structure update: Successful
+18/Nov/2024 18:59:30            Solver: Successful
+18/Nov/2024 18:59:30       Solver time: 0 hours, 0 min., 41 sec.
+18/Nov/2024 18:59:30  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Corte_cable = 8.88
+18/Nov/2024 18:59:31  
+                      Structure update: Successful
+18/Nov/2024 18:59:57            Solver: Successful
+18/Nov/2024 18:59:57       Solver time: 0 hours, 0 min., 26 sec.
+18/Nov/2024 18:59:57  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Corte_cable = 9.435
+18/Nov/2024 18:59:57  
+                      Structure update: Successful
+18/Nov/2024 19:00:24            Solver: Successful
+18/Nov/2024 19:00:24       Solver time: 0 hours, 0 min., 27 sec.
+18/Nov/2024 19:00:24  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Corte_cable = 9.99
+18/Nov/2024 19:00:25  
+                      Structure update: Successful
+18/Nov/2024 19:00:52            Solver: Successful
+18/Nov/2024 19:00:52       Solver time: 0 hours, 0 min., 27 sec.
+18/Nov/2024 19:00:52  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Corte_cable = 10.545
+18/Nov/2024 19:00:53  
+                      Structure update: Successful
+18/Nov/2024 19:01:19            Solver: Successful
+18/Nov/2024 19:01:19       Solver time: 0 hours, 0 min., 26 sec.
+18/Nov/2024 19:01:19  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Corte_cable = 11.1
+18/Nov/2024 19:01:19  
+                      Structure update: Successful
+18/Nov/2024 19:01:46            Solver: Successful
+18/Nov/2024 19:01:46       Solver time: 0 hours, 0 min., 27 sec.
+18/Nov/2024 19:01:46  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Corte_cable = 11.655
+18/Nov/2024 19:01:46  
+                      Structure update: Successful
+18/Nov/2024 19:02:12            Solver: Successful
+18/Nov/2024 19:02:12       Solver time: 0 hours, 0 min., 26 sec.
+18/Nov/2024 19:02:12  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Corte_cable = 12.21
+18/Nov/2024 19:02:13  
+                      Structure update: Successful
+18/Nov/2024 19:02:37            Solver: Successful
+18/Nov/2024 19:02:37       Solver time: 0 hours, 0 min., 24 sec.
+18/Nov/2024 19:02:37  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Corte_cable = 12.765
+18/Nov/2024 19:02:38  
+                      Structure update: Successful
+18/Nov/2024 19:03:02            Solver: Successful
+18/Nov/2024 19:03:02       Solver time: 0 hours, 0 min., 24 sec.
+18/Nov/2024 19:03:02  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Corte_cable = 13.32
+18/Nov/2024 19:03:02  
+                      Structure update: Successful
+18/Nov/2024 19:03:25            Solver: Successful
+18/Nov/2024 19:03:25       Solver time: 0 hours, 0 min., 23 sec.
+18/Nov/2024 19:03:25  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Corte_cable = 13.875
+18/Nov/2024 19:03:25  
+                      Structure update: Successful
+18/Nov/2024 19:03:47            Solver: Successful
+18/Nov/2024 19:03:47       Solver time: 0 hours, 0 min., 22 sec.
+18/Nov/2024 19:03:47  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Corte_cable = 14.43
+18/Nov/2024 19:03:48  
+                      Structure update: Successful
+18/Nov/2024 19:04:09            Solver: Successful
+18/Nov/2024 19:04:09       Solver time: 0 hours, 0 min., 21 sec.
+18/Nov/2024 19:04:09  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Corte_cable = 15
+18/Nov/2024 19:04:09  
+                      Structure update: Failed
+18/Nov/2024 19:04:09  Reason: historyblock 42: 
+                              "(&H8000ffff) No points or area picked for location of discrete port
+                      (.Create)" in "define discrete port: 1".
+18/Nov/2024 19:04:09  --------------------------------------------------------------------------
+
+18/Nov/2024 19:04:09  ==========================================================================
+                      Sequence: Sequence 2
                       ==========================================================================
-                      Total evaluation time: 0 hours, 7 min., 55 sec.
+
+18/Nov/2024 19:04:09  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         D_Barra_L = 0
+18/Nov/2024 19:04:09  
+                      Simulation for this parameter data has already been performed.
+18/Nov/2024 19:04:09  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         D_Barra_L = 0.25
+18/Nov/2024 19:04:09  
+                      Structure update: Successful
+18/Nov/2024 19:04:43            Solver: Successful
+18/Nov/2024 19:04:43       Solver time: 0 hours, 0 min., 34 sec.
+18/Nov/2024 19:04:43  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         D_Barra_L = 0.5
+18/Nov/2024 19:04:43  
+                      Structure update: Successful
+18/Nov/2024 19:05:14            Solver: Successful
+18/Nov/2024 19:05:14       Solver time: 0 hours, 0 min., 31 sec.
+18/Nov/2024 19:05:14  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         D_Barra_L = 0.75
+18/Nov/2024 19:05:14  
+                      Structure update: Successful
+18/Nov/2024 19:05:45            Solver: Successful
+18/Nov/2024 19:05:45       Solver time: 0 hours, 0 min., 31 sec.
+18/Nov/2024 19:05:45  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         D_Barra_L = 1
+18/Nov/2024 19:05:46  
+                      Structure update: Successful
+18/Nov/2024 19:06:16            Solver: Successful
+18/Nov/2024 19:06:16       Solver time: 0 hours, 0 min., 30 sec.
+18/Nov/2024 19:06:16  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         D_Barra_L = 1.25
+18/Nov/2024 19:06:17  
+                      Structure update: Successful
+18/Nov/2024 19:06:48            Solver: Successful
+18/Nov/2024 19:06:48       Solver time: 0 hours, 0 min., 31 sec.
+18/Nov/2024 19:06:48  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         D_Barra_L = 1.5
+18/Nov/2024 19:06:48  
+                      Structure update: Successful
+18/Nov/2024 19:07:19            Solver: Successful
+18/Nov/2024 19:07:19       Solver time: 0 hours, 0 min., 31 sec.
+18/Nov/2024 19:07:19  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         D_Barra_L = 1.75
+18/Nov/2024 19:07:19  
+                      Structure update: Successful
+18/Nov/2024 19:07:49            Solver: Successful
+18/Nov/2024 19:07:49       Solver time: 0 hours, 0 min., 30 sec.
+18/Nov/2024 19:07:49  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         D_Barra_L = 2
+18/Nov/2024 19:07:49  
+                      Structure update: Successful
+18/Nov/2024 19:08:19            Solver: Successful
+18/Nov/2024 19:08:19       Solver time: 0 hours, 0 min., 30 sec.
+18/Nov/2024 19:08:19  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         D_Barra_L = 2.25
+18/Nov/2024 19:08:20  
+                      Structure update: Successful
+18/Nov/2024 19:08:49            Solver: Successful
+18/Nov/2024 19:08:49       Solver time: 0 hours, 0 min., 29 sec.
+18/Nov/2024 19:08:49  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         D_Barra_L = 2.5
+18/Nov/2024 19:08:49  
+                      Structure update: Successful
+18/Nov/2024 19:09:46            Solver: Successful
+18/Nov/2024 19:09:46       Solver time: 0 hours, 0 min., 57 sec.
+18/Nov/2024 19:09:46  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         D_Barra_L = 2.75
+18/Nov/2024 19:09:46  
+                      Structure update: Successful
+18/Nov/2024 19:10:42            Solver: Successful
+18/Nov/2024 19:10:42       Solver time: 0 hours, 0 min., 56 sec.
+18/Nov/2024 19:10:42  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         D_Barra_L = 3
+18/Nov/2024 19:10:42  
+                      Structure update: Successful
+18/Nov/2024 19:11:11            Solver: Successful
+18/Nov/2024 19:11:11       Solver time: 0 hours, 0 min., 29 sec.
+18/Nov/2024 19:11:11  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         D_Barra_L = 3.25
+18/Nov/2024 19:11:12  
+                      Structure update: Successful
+18/Nov/2024 19:12:03            Solver: Successful
+18/Nov/2024 19:12:03       Solver time: 0 hours, 0 min., 51 sec.
+18/Nov/2024 19:12:03  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         D_Barra_L = 3.5
+18/Nov/2024 19:12:04  
+                      Structure update: Successful
+18/Nov/2024 19:12:33            Solver: Successful
+18/Nov/2024 19:12:33       Solver time: 0 hours, 0 min., 29 sec.
+18/Nov/2024 19:12:33  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         D_Barra_L = 3.75
+18/Nov/2024 19:12:33  
+                      Structure update: Successful
+18/Nov/2024 19:13:25            Solver: Successful
+18/Nov/2024 19:13:25       Solver time: 0 hours, 0 min., 52 sec.
+18/Nov/2024 19:13:25  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         D_Barra_L = 4
+18/Nov/2024 19:13:25  
+                      Structure update: Successful
+18/Nov/2024 19:14:15            Solver: Successful
+18/Nov/2024 19:14:15       Solver time: 0 hours, 0 min., 50 sec.
+18/Nov/2024 19:14:15  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         D_Barra_L = 4.25
+18/Nov/2024 19:14:15  
+                      Structure update: Successful
+18/Nov/2024 19:15:05            Solver: Successful
+18/Nov/2024 19:15:05       Solver time: 0 hours, 0 min., 50 sec.
+18/Nov/2024 19:15:05  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         D_Barra_L = 4.5
+18/Nov/2024 19:15:06  
+                      Structure update: Successful
+18/Nov/2024 19:15:55            Solver: Successful
+18/Nov/2024 19:15:55       Solver time: 0 hours, 0 min., 49 sec.
+18/Nov/2024 19:15:55  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         D_Barra_L = 4.75
+18/Nov/2024 19:15:56  
+                      Structure update: Successful
+18/Nov/2024 19:16:44            Solver: Successful
+18/Nov/2024 19:16:44       Solver time: 0 hours, 0 min., 48 sec.
+18/Nov/2024 19:16:44  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         D_Barra_L = 5
+18/Nov/2024 19:16:44  
+                      Structure update: Successful
+18/Nov/2024 19:17:37            Solver: Successful
+18/Nov/2024 19:17:37       Solver time: 0 hours, 0 min., 53 sec.
+18/Nov/2024 19:17:37  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         D_Barra_L = 5.25
+18/Nov/2024 19:17:38  
+                      Structure update: Successful
+18/Nov/2024 19:18:27            Solver: Successful
+18/Nov/2024 19:18:27       Solver time: 0 hours, 0 min., 49 sec.
+18/Nov/2024 19:18:27  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         D_Barra_L = 5.5
+18/Nov/2024 19:18:27  
+                      Structure update: Successful
+18/Nov/2024 19:19:17            Solver: Successful
+18/Nov/2024 19:19:17       Solver time: 0 hours, 0 min., 50 sec.
+18/Nov/2024 19:19:17  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         D_Barra_L = 5.75
+18/Nov/2024 19:19:18  
+                      Structure update: Successful
+18/Nov/2024 19:20:04            Solver: Successful
+18/Nov/2024 19:20:04       Solver time: 0 hours, 0 min., 46 sec.
+18/Nov/2024 19:20:04  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         D_Barra_L = 6
+18/Nov/2024 19:20:04  
+                      Structure update: Successful
+18/Nov/2024 19:20:48            Solver: Successful
+18/Nov/2024 19:20:48       Solver time: 0 hours, 0 min., 44 sec.
+18/Nov/2024 19:20:48  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         D_Barra_L = 6.25
+18/Nov/2024 19:20:48  
+                      Structure update: Successful
+18/Nov/2024 19:21:19            Solver: Successful
+18/Nov/2024 19:21:19       Solver time: 0 hours, 0 min., 31 sec.
+18/Nov/2024 19:21:19  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         D_Barra_L = 6.5
+18/Nov/2024 19:21:19  
+                      Structure update: Successful
+18/Nov/2024 19:21:51            Solver: Successful
+18/Nov/2024 19:21:51       Solver time: 0 hours, 0 min., 32 sec.
+18/Nov/2024 19:21:51  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         D_Barra_L = 6.75
+18/Nov/2024 19:21:51  
+                      Structure update: Successful
+18/Nov/2024 19:22:22            Solver: Successful
+18/Nov/2024 19:22:22       Solver time: 0 hours, 0 min., 31 sec.
+18/Nov/2024 19:22:22  --------------------------------------------------------------------------
+
+18/Nov/2024 19:22:22  ==========================================================================
+                      Sequence: Sequence 3
+                      ==========================================================================
+
+18/Nov/2024 19:22:22  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         D_Cilindro_ajuste = 0
+18/Nov/2024 19:22:22  
+                      Simulation for this parameter data has already been performed.
+18/Nov/2024 19:22:22  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         D_Cilindro_ajuste = 0.25
+18/Nov/2024 19:22:22  
+                      Structure update: Successful
+18/Nov/2024 19:22:49            Solver: Successful
+18/Nov/2024 19:22:49       Solver time: 0 hours, 0 min., 27 sec.
+18/Nov/2024 19:22:49  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         D_Cilindro_ajuste = 0.5
+18/Nov/2024 19:22:49  
+                      Structure update: Successful
+18/Nov/2024 19:23:19            Solver: Successful
+18/Nov/2024 19:23:19       Solver time: 0 hours, 0 min., 30 sec.
+18/Nov/2024 19:23:19  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         D_Cilindro_ajuste = 0.75
+18/Nov/2024 19:23:20  
+                      Structure update: Successful
+18/Nov/2024 19:23:48            Solver: Successful
+18/Nov/2024 19:23:48       Solver time: 0 hours, 0 min., 28 sec.
+18/Nov/2024 19:23:48  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         D_Cilindro_ajuste = 1
+18/Nov/2024 19:23:48  
+                      Structure update: Successful
+18/Nov/2024 19:24:20            Solver: Successful
+18/Nov/2024 19:24:20       Solver time: 0 hours, 0 min., 32 sec.
+18/Nov/2024 19:24:20  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         D_Cilindro_ajuste = 1.25
+18/Nov/2024 19:24:20  
+                      Structure update: Successful
+18/Nov/2024 19:24:51            Solver: Successful
+18/Nov/2024 19:24:51       Solver time: 0 hours, 0 min., 31 sec.
+18/Nov/2024 19:24:51  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         D_Cilindro_ajuste = 1.5
+18/Nov/2024 19:24:51  
+                      Structure update: Successful
+18/Nov/2024 19:25:22            Solver: Successful
+18/Nov/2024 19:25:22       Solver time: 0 hours, 0 min., 31 sec.
+18/Nov/2024 19:25:22  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         D_Cilindro_ajuste = 1.75
+18/Nov/2024 19:25:23  
+                      Structure update: Successful
+18/Nov/2024 19:25:57            Solver: Successful
+18/Nov/2024 19:25:57       Solver time: 0 hours, 0 min., 34 sec.
+18/Nov/2024 19:25:57  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         D_Cilindro_ajuste = 2
+18/Nov/2024 19:25:57  
+                      Structure update: Successful
+18/Nov/2024 19:26:30            Solver: Successful
+18/Nov/2024 19:26:30       Solver time: 0 hours, 0 min., 33 sec.
+18/Nov/2024 19:26:30  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         D_Cilindro_ajuste = 2.25
+18/Nov/2024 19:26:31  
+                      Structure update: Successful
+18/Nov/2024 19:27:04            Solver: Successful
+18/Nov/2024 19:27:04       Solver time: 0 hours, 0 min., 33 sec.
+18/Nov/2024 19:27:04  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         D_Cilindro_ajuste = 2.5
+18/Nov/2024 19:27:04  
+                      Structure update: Successful
+18/Nov/2024 19:27:37            Solver: Successful
+18/Nov/2024 19:27:37       Solver time: 0 hours, 0 min., 33 sec.
+18/Nov/2024 19:27:37  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         D_Cilindro_ajuste = 2.75
+18/Nov/2024 19:27:38  
+                      Structure update: Successful
+18/Nov/2024 19:28:12            Solver: Successful
+18/Nov/2024 19:28:12       Solver time: 0 hours, 0 min., 34 sec.
+18/Nov/2024 19:28:12  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         D_Cilindro_ajuste = 3
+18/Nov/2024 19:28:13  
+                      Structure update: Successful
+18/Nov/2024 19:29:22            Solver: Successful
+18/Nov/2024 19:29:22       Solver time: 0 hours, 1 min., 9 sec.
+18/Nov/2024 19:29:22  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         D_Cilindro_ajuste = 3.25
+18/Nov/2024 19:29:23  
+                      Structure update: Successful
+18/Nov/2024 19:30:35            Solver: Successful
+18/Nov/2024 19:30:35       Solver time: 0 hours, 1 min., 12 sec.
+18/Nov/2024 19:30:35  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         D_Cilindro_ajuste = 3.5
+18/Nov/2024 19:30:36  
+                      Structure update: Successful
+18/Nov/2024 19:31:48            Solver: Successful
+18/Nov/2024 19:31:48       Solver time: 0 hours, 1 min., 12 sec.
+18/Nov/2024 19:31:48  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         D_Cilindro_ajuste = 3.75
+18/Nov/2024 19:31:48  
+                      Structure update: Successful
+18/Nov/2024 19:32:59            Solver: Successful
+18/Nov/2024 19:32:59       Solver time: 0 hours, 1 min., 11 sec.
+18/Nov/2024 19:32:59  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         D_Cilindro_ajuste = 4
+18/Nov/2024 19:32:59  
+                      Structure update: Successful
+18/Nov/2024 19:33:34            Solver: Successful
+18/Nov/2024 19:33:34       Solver time: 0 hours, 0 min., 35 sec.
+18/Nov/2024 19:33:34  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         D_Cilindro_ajuste = 4.25
+18/Nov/2024 19:33:34  
+                      Structure update: Successful
+18/Nov/2024 19:34:28            Solver: Successful
+18/Nov/2024 19:34:28       Solver time: 0 hours, 0 min., 54 sec.
+18/Nov/2024 19:34:28  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         D_Cilindro_ajuste = 4.5
+18/Nov/2024 19:34:29  
+                      Structure update: Successful
+18/Nov/2024 19:35:42            Solver: Successful
+18/Nov/2024 19:35:42       Solver time: 0 hours, 1 min., 13 sec.
+18/Nov/2024 19:35:42  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         D_Cilindro_ajuste = 4.75
+18/Nov/2024 19:35:43  
+                      Structure update: Successful
+18/Nov/2024 19:36:57            Solver: Successful
+18/Nov/2024 19:36:57       Solver time: 0 hours, 1 min., 14 sec.
+18/Nov/2024 19:36:57  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         D_Cilindro_ajuste = 5
+18/Nov/2024 19:36:58  
+                      Structure update: Successful
+18/Nov/2024 19:38:11            Solver: Successful
+18/Nov/2024 19:38:11       Solver time: 0 hours, 1 min., 13 sec.
+18/Nov/2024 19:38:11  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         D_Cilindro_ajuste = 5.25
+18/Nov/2024 19:38:11  
+                      Structure update: Successful
+18/Nov/2024 19:39:05            Solver: Successful
+18/Nov/2024 19:39:05       Solver time: 0 hours, 0 min., 54 sec.
+18/Nov/2024 19:39:05  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         D_Cilindro_ajuste = 5.5
+18/Nov/2024 19:39:05  
+                      Structure update: Successful
+18/Nov/2024 19:39:39            Solver: Successful
+18/Nov/2024 19:39:39       Solver time: 0 hours, 0 min., 34 sec.
+18/Nov/2024 19:39:39  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         D_Cilindro_ajuste = 5.75
+18/Nov/2024 19:39:39  
+                      Structure update: Successful
+18/Nov/2024 19:40:14            Solver: Successful
+18/Nov/2024 19:40:14       Solver time: 0 hours, 0 min., 35 sec.
+18/Nov/2024 19:40:14  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         D_Cilindro_ajuste = 6
+18/Nov/2024 19:40:14  
+                      Structure update: Successful
+18/Nov/2024 19:40:46            Solver: Successful
+18/Nov/2024 19:40:46       Solver time: 0 hours, 0 min., 32 sec.
+18/Nov/2024 19:40:46  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         D_Cilindro_ajuste = 6.25
+18/Nov/2024 19:40:46  
+                      Structure update: Successful
+18/Nov/2024 19:41:18            Solver: Successful
+18/Nov/2024 19:41:18       Solver time: 0 hours, 0 min., 32 sec.
+18/Nov/2024 19:41:18  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         D_Cilindro_ajuste = 6.5
+18/Nov/2024 19:41:18  
+                      Structure update: Successful
+18/Nov/2024 19:41:52            Solver: Successful
+18/Nov/2024 19:41:52       Solver time: 0 hours, 0 min., 34 sec.
+18/Nov/2024 19:41:52  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         D_Cilindro_ajuste = 6.75
+18/Nov/2024 19:41:52  
+                      Structure update: Successful
+18/Nov/2024 19:42:27            Solver: Successful
+18/Nov/2024 19:42:27       Solver time: 0 hours, 0 min., 35 sec.
+18/Nov/2024 19:42:27  --------------------------------------------------------------------------
+18/Nov/2024 19:42:27  2 parameter combinations were skipped because they were defined multiple times in the current sweep.
+18/Nov/2024 19:42:27  
+                      ==========================================================================
+                      Total evaluation time: 0 hours, 56 min., 27 sec.
                       ==========================================================================
