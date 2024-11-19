@@ -1,12 +1,12 @@
 3100 0 5 0           
-20 CST MICROWAVE STUDIO 14 ACIS 31.0.1 NT 24 Mon Nov 18 21:57:17 2024 
+20 CST MICROWAVE STUDIO 14 ACIS 31.0.1 NT 24 Mon Nov 18 23:03:04 2024 
 10 9.9999999999999995e-07 1e-10 
-T @77 RJ_7NXCS4A_68FEFKMCY9UXVD9MM4_QWVBTVJ87V6A_MFJ55QA8VMVP37DUBQJ7DKAUKPPPHY8G4R 
+T @77 M8APAY_NYYN986RU3DMHB8Y323F4Z46A9AUVSXPE7DGCGJ5WACQVEAP83B44GMQUA8NBNJN23C3CR 
 face $5 -1 -1 $-1 $-1 $6 $-1 $-1 $7 reversed single F F #
 edge $8 -1 -1 $-1 $9 1 $9 0 $-1 $10 forward @7 unknown F #
 edge $11 -1 -1 $-1 $12 1 $12 0 $-1 $13 forward @7 unknown F #
 name_attrib-gen-attrib $14 -1 $-1 $-1 $-1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 @11 backwd_flop #
-edge $15 -1 -1 $-1 $16 0 $16 6.2831853071795862 $-1 $17 forward @7 unknown F #
+edge $15 -1 -1 $-1 $16 1 $16 0 $-1 $17 forward @7 unknown F #
 name_attrib-gen-attrib $-1 -1 $18 $-1 $0 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @37 nsoporte de abajo:barra perpendicular #
 loop $-1 -1 -1 $-1 $19 $20 $0 F unknown #
 plane-surface $-1 -1 -1 $-1 0.40000000000000002 7 -2.25 -1 0 0 0 0 1 forward_v I I I I #
