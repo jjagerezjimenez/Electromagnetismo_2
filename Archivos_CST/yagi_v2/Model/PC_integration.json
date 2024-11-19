@@ -12,12 +12,17 @@
       {
          "name": "D_Cilindro_ajuste",
          "type": "float",
-         "value": 6.75
+         "value": 0.0
       },
       {
          "name": "Corte_cable",
          "type": "float",
          "value": 0.0
+      },
+      {
+         "name": "Desp",
+         "type": "float",
+         "value": 5.25
       }
    ],
    "outputVariables": []

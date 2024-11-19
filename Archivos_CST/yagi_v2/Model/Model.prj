@@ -5,7 +5,7 @@
 [Author]
 Facultad
 [Mesh Cells]
-493,782
+474,418
 [Mesh Type]
 Hexahedral
 [Last Problem Type]
@@ -17,5 +17,5 @@ t
 [Results]
 Time Domain: S-Parameter
 [Modeler Unique ID]
-5:yagi_v2.cst?fa080fe98293a550f8cba022c691d6bd?21788:numberofparameters=3:port=1>mode=1>zre=0>zim=0:::corte_cable?d_barra_l?d_cilindro_ajuste
+5:yagi_v2.cst?750560abdbdb91e815d433ef21a336c9?22418:numberofparameters=1:port=1>mode=1>zre=0>zim=0:::desp
 [Comment]

@@ -18,7 +18,7 @@
             "user acc settings": {
                 "cpu devices": 1,
                 "dc nodes": 0,
-                "gpu devices": 0,
+                "gpu devices": 16,
                 "mpi nodes": 0,
                 "threads or phys cores": 1024
             }

@@ -8,15 +8,21 @@
         },
         {
             "descr": "desplazamniento del cilindro lateral en cm",
-            "expr": "6.75",
+            "expr": "0",
             "name": "D_Cilindro_ajuste",
-            "value": "6.75"
+            "value": "0"
         },
         {
             "descr": "cm de cable que quiero cortar",
             "expr": "0",
             "name": "Corte_cable",
             "value": "0"
+        },
+        {
+            "descr": "movimineto en las piezas",
+            "expr": "5.25",
+            "name": "Desp",
+            "value": "5.25"
         }
     ],
     "version": 1

@@ -577,7 +577,7 @@ With Cylinder
      .OuterRadius "0.02" 
      .InnerRadius "0" 
      .Axis "x" 
-     .Xrange "0", "-15  + Corte_cable" 
+     .Xrange "0", "-15  + Desp" 
      .Ycenter "7" 
      .Zcenter "-3" 
      .Segments "0" 
@@ -600,7 +600,7 @@ With Cylinder
      .OuterRadius "0.15" 
      .InnerRadius "0.12" 
      .Axis "x" 
-     .Xrange "-0.5 - D_Cilindro_ajuste", "-7 - D_Cilindro_ajuste" 
+     .Xrange "-0.5 - (Desp/3)", "-7 - (Desp/3)" 
      .Ycenter "7" 
      .Zcenter "-3" 
      .Segments "0" 
@@ -620,7 +620,7 @@ With Brick
      .Name "ajuste barra lateral" 
      .Component "ajuste barra lateral" 
      .Material "Aluminum" 
-     .Xrange "-0.55 - D_Barra_L", "-1.55 - D_Barra_L" 
+     .Xrange "-5.8 + Desp", "-6.8 + Desp" 
      .Yrange "6.7", "7.3" 
      .Zrange "-4", "0.5" 
      .Create
@@ -657,7 +657,7 @@ With Cylinder
      .OuterRadius "0.12" 
      .InnerRadius "0" 
      .Axis "x" 
-     .Xrange "-0.55 - D_Barra_L", "-2.55 - D_Barra_L" 
+     .Xrange "-5.8 + Desp", "-6.8 + Desp" 
      .Ycenter "7" 
      .Zcenter "0" 
      .Segments "0" 
@@ -680,7 +680,7 @@ With Cylinder
      .OuterRadius "0.17" 
      .InnerRadius "0" 
      .Axis "x" 
-     .Xrange "-0.55 - D_Barra_L", "-2.55 - D_Barra_L" 
+     .Xrange "-5.8 + Desp", "-6.8 + Desp" 
      .Ycenter "7" 
      .Zcenter "-3" 
      .Segments "0" 
@@ -950,7 +950,7 @@ With Cylinder
      .OuterRadius "0.11" 
      .InnerRadius "0.02" 
      .Axis "x" 
-     .Xrange "-0.5", "-14.5 + Corte_cable" 
+     .Xrange "-0.5", "-14.5 + Desp" 
      .Ycenter "7" 
      .Zcenter "-3" 
      .Segments "0" 
@@ -1038,4 +1038,27 @@ End With
 
 '[VERSION]2022.4|31.0.1|20220426[/VERSION]
 Solver.FrequencyRange "300", "1500"
+
+'@ define time domain solver acceleration
+
+'[VERSION]2022.0|31.0.1|20210823[/VERSION]
+With Solver 
+     .UseParallelization "True"
+     .MaximumNumberOfThreads "1024"
+     .MaximumNumberOfCPUDevices "8"
+     .RemoteCalculation "False"
+     .UseDistributedComputing "False"
+     .MaxNumberOfDistributedComputingPorts "64"
+     .DistributeMatrixCalculation "True"
+     .MPIParallelization "False"
+     .AutomaticMPI "False"
+     .HardwareAcceleration "True"
+     .MaximumNumberOfGPUs "16"
+End With
+UseDistributedComputingForParameters "False"
+MaxNumberOfDistributedComputingParameters "2"
+UseDistributedComputingMemorySetting "False"
+MinDistributedComputingMemoryLimit "0"
+UseDistributedComputingSharedDirectory "False"
+OnlyConsider0D1DResultsForDC "False"
 
