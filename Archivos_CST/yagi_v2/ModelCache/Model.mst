@@ -1,3 +1,6 @@
+ajuste cilindro:cilindro de ajuste
+0
+1
 varillas:reflector
 0
 1
@@ -19,12 +22,9 @@ cable:alambre
 cable:aislante
 0
 1
-ajuste cilindro:cilindro de ajuste
+barra central:barra central
 0
 1
 ajuste barra lateral:ajuste barra lateral
-0
-1
-barra central:barra central
 0
 1

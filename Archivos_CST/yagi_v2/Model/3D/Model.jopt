@@ -14,7 +14,7 @@
                 {
                     "Active": "False",
                     "Anchors": "5",
-                    "Initial Value": "20",
+                    "Initial Value": "2.8",
                     "Max Value": "0.1",
                     "Min Value": "-0.1",
                     "Parameter Name": "Desp"

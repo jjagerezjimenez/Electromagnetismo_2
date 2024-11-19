@@ -1,5 +1,5 @@
 {
-    "date": "2024-11-19, 17:55:27, Hora estándar de Argentina",
+    "date": "2024-11-19, 19:20:30, Hora estándar de Argentina",
     "solver_runs_and_tasks": {
         "module_name": "parameter sweep",
         "solver_run": {
@@ -37,17 +37,17 @@
             "task_name": "solver run",
             "time_info": {
                 "details": {
-                    "discretizer": 13,
-                    "solver": 44
+                    "discretizer": 15,
+                    "solver": 14
                 },
-                "run_time": 61
+                "run_time": 32
             }
         }
     },
     "studio-version": "2022.0 Release from 2021-08-23 (change 895802)",
     "version": 1
 }{
-    "date": "2024-11-19, 17:56:30, Hora estándar de Argentina",
+    "date": "2024-11-19, 19:21:15, Hora estándar de Argentina",
     "solver_runs_and_tasks": {
         "module_name": "parameter sweep",
         "solver_run": {
@@ -85,17 +85,17 @@
             "task_name": "solver run",
             "time_info": {
                 "details": {
-                    "discretizer": 16,
-                    "solver": 40
+                    "discretizer": 14,
+                    "solver": 25
                 },
-                "run_time": 60
+                "run_time": 43
             }
         }
     },
     "studio-version": "2022.0 Release from 2021-08-23 (change 895802)",
     "version": 1
 }{
-    "date": "2024-11-19, 17:57:02, Hora estándar de Argentina",
+    "date": "2024-11-19, 19:22:19, Hora estándar de Argentina",
     "solver_runs_and_tasks": {
         "module_name": "parameter sweep",
         "solver_run": {
@@ -133,17 +133,17 @@
             "task_name": "solver run",
             "time_info": {
                 "details": {
-                    "discretizer": 13,
-                    "solver": 13
+                    "discretizer": 16,
+                    "solver": 41
                 },
-                "run_time": 29
+                "run_time": 61
             }
         }
     },
     "studio-version": "2022.0 Release from 2021-08-23 (change 895802)",
     "version": 1
 }{
-    "date": "2024-11-19, 17:58:03, Hora estándar de Argentina",
+    "date": "2024-11-19, 19:23:22, Hora estándar de Argentina",
     "solver_runs_and_tasks": {
         "module_name": "parameter sweep",
         "solver_run": {
@@ -181,17 +181,17 @@
             "task_name": "solver run",
             "time_info": {
                 "details": {
-                    "discretizer": 15,
-                    "solver": 40
+                    "discretizer": 16,
+                    "solver": 41
                 },
-                "run_time": 58
+                "run_time": 61
             }
         }
     },
     "studio-version": "2022.0 Release from 2021-08-23 (change 895802)",
     "version": 1
 }{
-    "date": "2024-11-19, 17:59:01, Hora estándar de Argentina",
+    "date": "2024-11-19, 19:24:25, Hora estándar de Argentina",
     "solver_runs_and_tasks": {
         "module_name": "parameter sweep",
         "solver_run": {
@@ -229,17 +229,17 @@
             "task_name": "solver run",
             "time_info": {
                 "details": {
-                    "discretizer": 15,
-                    "solver": 37
+                    "discretizer": 16,
+                    "solver": 40
                 },
-                "run_time": 56
+                "run_time": 60
             }
         }
     },
     "studio-version": "2022.0 Release from 2021-08-23 (change 895802)",
     "version": 1
 }{
-    "date": "2024-11-19, 17:59:58, Hora estándar de Argentina",
+    "date": "2024-11-19, 19:25:03, Hora estándar de Argentina",
     "solver_runs_and_tasks": {
         "module_name": "parameter sweep",
         "solver_run": {
@@ -277,17 +277,17 @@
             "task_name": "solver run",
             "time_info": {
                 "details": {
-                    "discretizer": 18,
-                    "solver": 33
+                    "discretizer": 16,
+                    "solver": 16
                 },
-                "run_time": 54
+                "run_time": 35
             }
         }
     },
     "studio-version": "2022.0 Release from 2021-08-23 (change 895802)",
     "version": 1
 }{
-    "date": "2024-11-19, 18:00:50, Hora estándar de Argentina",
+    "date": "2024-11-19, 19:26:05, Hora estándar de Argentina",
     "solver_runs_and_tasks": {
         "module_name": "parameter sweep",
         "solver_run": {
@@ -325,17 +325,17 @@
             "task_name": "solver run",
             "time_info": {
                 "details": {
-                    "discretizer": 17,
-                    "solver": 29
+                    "discretizer": 16,
+                    "solver": 41
                 },
-                "run_time": 50
+                "run_time": 60
             }
         }
     },
     "studio-version": "2022.0 Release from 2021-08-23 (change 895802)",
     "version": 1
 }{
-    "date": "2024-11-19, 18:01:39, Hora estándar de Argentina",
+    "date": "2024-11-19, 19:27:09, Hora estándar de Argentina",
     "solver_runs_and_tasks": {
         "module_name": "parameter sweep",
         "solver_run": {
@@ -373,17 +373,17 @@
             "task_name": "solver run",
             "time_info": {
                 "details": {
-                    "discretizer": 17,
-                    "solver": 25
+                    "discretizer": 16,
+                    "solver": 41
                 },
-                "run_time": 45
+                "run_time": 61
             }
         }
     },
     "studio-version": "2022.0 Release from 2021-08-23 (change 895802)",
     "version": 1
 }{
-    "date": "2024-11-19, 18:02:29, Hora estándar de Argentina",
+    "date": "2024-11-19, 19:28:14, Hora estándar de Argentina",
     "solver_runs_and_tasks": {
         "module_name": "parameter sweep",
         "solver_run": {
@@ -421,17 +421,17 @@
             "task_name": "solver run",
             "time_info": {
                 "details": {
-                    "discretizer": 17,
-                    "solver": 27
+                    "discretizer": 16,
+                    "solver": 42
                 },
-                "run_time": 48
+                "run_time": 62
             }
         }
     },
     "studio-version": "2022.0 Release from 2021-08-23 (change 895802)",
     "version": 1
 }{
-    "date": "2024-11-19, 18:03:22, Hora estándar de Argentina",
+    "date": "2024-11-19, 19:29:17, Hora estándar de Argentina",
     "solver_runs_and_tasks": {
         "module_name": "parameter sweep",
         "solver_run": {
@@ -469,17 +469,17 @@
             "task_name": "solver run",
             "time_info": {
                 "details": {
-                    "discretizer": 17,
-                    "solver": 29
+                    "discretizer": 16,
+                    "solver": 41
                 },
-                "run_time": 50
+                "run_time": 61
             }
         }
     },
     "studio-version": "2022.0 Release from 2021-08-23 (change 895802)",
     "version": 1
 }{
-    "date": "2024-11-19, 18:03:54, Hora estándar de Argentina",
+    "date": "2024-11-19, 19:30:21, Hora estándar de Argentina",
     "solver_runs_and_tasks": {
         "module_name": "parameter sweep",
         "solver_run": {
@@ -518,16 +518,16 @@
             "time_info": {
                 "details": {
                     "discretizer": 16,
-                    "solver": 11
+                    "solver": 41
                 },
-                "run_time": 30
+                "run_time": 61
             }
         }
     },
     "studio-version": "2022.0 Release from 2021-08-23 (change 895802)",
     "version": 1
 }{
-    "date": "2024-11-19, 18:04:53, Hora estándar de Argentina",
+    "date": "2024-11-19, 19:31:26, Hora estándar de Argentina",
     "solver_runs_and_tasks": {
         "module_name": "parameter sweep",
         "solver_run": {
@@ -565,17 +565,17 @@
             "task_name": "solver run",
             "time_info": {
                 "details": {
-                    "discretizer": 16,
-                    "solver": 36
+                    "discretizer": 17,
+                    "solver": 41
                 },
-                "run_time": 56
+                "run_time": 62
             }
         }
     },
     "studio-version": "2022.0 Release from 2021-08-23 (change 895802)",
     "version": 1
 }{
-    "date": "2024-11-19, 18:05:54, Hora estándar de Argentina",
+    "date": "2024-11-19, 19:32:32, Hora estándar de Argentina",
     "solver_runs_and_tasks": {
         "module_name": "parameter sweep",
         "solver_run": {
@@ -614,16 +614,16 @@
             "time_info": {
                 "details": {
                     "discretizer": 17,
-                    "solver": 38
+                    "solver": 42
                 },
-                "run_time": 59
+                "run_time": 63
             }
         }
     },
     "studio-version": "2022.0 Release from 2021-08-23 (change 895802)",
     "version": 1
 }{
-    "date": "2024-11-19, 18:06:58, Hora estándar de Argentina",
+    "date": "2024-11-19, 19:33:37, Hora estándar de Argentina",
     "solver_runs_and_tasks": {
         "module_name": "parameter sweep",
         "solver_run": {
@@ -661,17 +661,17 @@
             "task_name": "solver run",
             "time_info": {
                 "details": {
-                    "discretizer": 18,
-                    "solver": 39
+                    "discretizer": 17,
+                    "solver": 42
                 },
-                "run_time": 61
+                "run_time": 63
             }
         }
     },
     "studio-version": "2022.0 Release from 2021-08-23 (change 895802)",
     "version": 1
 }{
-    "date": "2024-11-19, 18:07:33, Hora estándar de Argentina",
+    "date": "2024-11-19, 19:34:43, Hora estándar de Argentina",
     "solver_runs_and_tasks": {
         "module_name": "parameter sweep",
         "solver_run": {
@@ -710,16 +710,16 @@
             "time_info": {
                 "details": {
                     "discretizer": 16,
-                    "solver": 13
+                    "solver": 43
                 },
-                "run_time": 32
+                "run_time": 63
             }
         }
     },
     "studio-version": "2022.0 Release from 2021-08-23 (change 895802)",
     "version": 1
 }{
-    "date": "2024-11-19, 18:08:07, Hora estándar de Argentina",
+    "date": "2024-11-19, 19:35:49, Hora estándar de Argentina",
     "solver_runs_and_tasks": {
         "module_name": "parameter sweep",
         "solver_run": {
@@ -757,17 +757,17 @@
             "task_name": "solver run",
             "time_info": {
                 "details": {
-                    "discretizer": 15,
-                    "solver": 15
+                    "discretizer": 16,
+                    "solver": 43
                 },
-                "run_time": 32
+                "run_time": 63
             }
         }
     },
     "studio-version": "2022.0 Release from 2021-08-23 (change 895802)",
     "version": 1
 }{
-    "date": "2024-11-19, 18:09:15, Hora estándar de Argentina",
+    "date": "2024-11-19, 19:37:00, Hora estándar de Argentina",
     "solver_runs_and_tasks": {
         "module_name": "parameter sweep",
         "solver_run": {
@@ -805,17 +805,17 @@
             "task_name": "solver run",
             "time_info": {
                 "details": {
-                    "discretizer": 16,
-                    "solver": 45
+                    "discretizer": 17,
+                    "solver": 48
                 },
-                "run_time": 65
+                "run_time": 69
             }
         }
     },
     "studio-version": "2022.0 Release from 2021-08-23 (change 895802)",
     "version": 1
 }{
-    "date": "2024-11-19, 18:10:12, Hora estándar de Argentina",
+    "date": "2024-11-19, 19:38:12, Hora estándar de Argentina",
     "solver_runs_and_tasks": {
         "module_name": "parameter sweep",
         "solver_run": {
@@ -853,17 +853,17 @@
             "task_name": "solver run",
             "time_info": {
                 "details": {
-                    "discretizer": 17,
-                    "solver": 34
+                    "discretizer": 18,
+                    "solver": 47
                 },
-                "run_time": 54
+                "run_time": 69
             }
         }
     },
     "studio-version": "2022.0 Release from 2021-08-23 (change 895802)",
     "version": 1
 }{
-    "date": "2024-11-19, 18:11:18, Hora estándar de Argentina",
+    "date": "2024-11-19, 19:39:17, Hora estándar de Argentina",
     "solver_runs_and_tasks": {
         "module_name": "parameter sweep",
         "solver_run": {
@@ -901,8 +901,8 @@
             "task_name": "solver run",
             "time_info": {
                 "details": {
-                    "discretizer": 16,
-                    "solver": 43
+                    "discretizer": 17,
+                    "solver": 42
                 },
                 "run_time": 63
             }
@@ -911,7 +911,7 @@
     "studio-version": "2022.0 Release from 2021-08-23 (change 895802)",
     "version": 1
 }{
-    "date": "2024-11-19, 18:12:23, Hora estándar de Argentina",
+    "date": "2024-11-19, 19:40:23, Hora estándar de Argentina",
     "solver_runs_and_tasks": {
         "module_name": "parameter sweep",
         "solver_run": {
@@ -949,7 +949,7 @@
             "task_name": "solver run",
             "time_info": {
                 "details": {
-                    "discretizer": 16,
+                    "discretizer": 17,
                     "solver": 42
                 },
                 "run_time": 63
@@ -959,7 +959,7 @@
     "studio-version": "2022.0 Release from 2021-08-23 (change 895802)",
     "version": 1
 }{
-    "date": "2024-11-19, 18:13:29, Hora estándar de Argentina",
+    "date": "2024-11-19, 19:41:31, Hora estándar de Argentina",
     "solver_runs_and_tasks": {
         "module_name": "parameter sweep",
         "solver_run": {
@@ -997,10 +997,394 @@
             "task_name": "solver run",
             "time_info": {
                 "details": {
-                    "discretizer": 18,
-                    "solver": 41
+                    "discretizer": 17,
+                    "solver": 44
                 },
-                "run_time": 63
+                "run_time": 65
+            }
+        }
+    },
+    "studio-version": "2022.0 Release from 2021-08-23 (change 895802)",
+    "version": 1
+}{
+    "date": "2024-11-19, 19:42:37, Hora estándar de Argentina",
+    "solver_runs_and_tasks": {
+        "module_name": "parameter sweep",
+        "solver_run": {
+            "license_and_hardware_request": {
+                "in_use": true,
+                "license_type": "CST legacy token",
+                "mpi": {
+                    "consistency_check": true,
+                    "num_different_mpi_nodes": 0,
+                    "num_local_mpi_nodes": 0,
+                    "num_mpi_nodes": 0
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": 0,
+                "num_physical_cores": -1,
+                "num_threads": 1024
+            },
+            "opt_par_run_id": 22,
+            "return_code": 1,
+            "solver_hwacc_usage": {
+                "info": "gathered from solver run",
+                "mpi": {
+                    "consistency_check": true,
+                    "num_different_mpi_nodes": 0,
+                    "num_local_mpi_nodes": 0,
+                    "num_mpi_nodes": 0
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": 0,
+                "num_threads_or_physical_cores": 12
+            },
+            "solver_used": "Solver_HF_TD",
+            "task_name": "solver run",
+            "time_info": {
+                "details": {
+                    "discretizer": 17,
+                    "solver": 43
+                },
+                "run_time": 64
+            }
+        }
+    },
+    "studio-version": "2022.0 Release from 2021-08-23 (change 895802)",
+    "version": 1
+}{
+    "date": "2024-11-19, 19:43:45, Hora estándar de Argentina",
+    "solver_runs_and_tasks": {
+        "module_name": "parameter sweep",
+        "solver_run": {
+            "license_and_hardware_request": {
+                "in_use": true,
+                "license_type": "CST legacy token",
+                "mpi": {
+                    "consistency_check": true,
+                    "num_different_mpi_nodes": 0,
+                    "num_local_mpi_nodes": 0,
+                    "num_mpi_nodes": 0
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": 0,
+                "num_physical_cores": -1,
+                "num_threads": 1024
+            },
+            "opt_par_run_id": 23,
+            "return_code": 1,
+            "solver_hwacc_usage": {
+                "info": "gathered from solver run",
+                "mpi": {
+                    "consistency_check": true,
+                    "num_different_mpi_nodes": 0,
+                    "num_local_mpi_nodes": 0,
+                    "num_mpi_nodes": 0
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": 0,
+                "num_threads_or_physical_cores": 12
+            },
+            "solver_used": "Solver_HF_TD",
+            "task_name": "solver run",
+            "time_info": {
+                "details": {
+                    "discretizer": 18,
+                    "solver": 44
+                },
+                "run_time": 65
+            }
+        }
+    },
+    "studio-version": "2022.0 Release from 2021-08-23 (change 895802)",
+    "version": 1
+}{
+    "date": "2024-11-19, 19:44:54, Hora estándar de Argentina",
+    "solver_runs_and_tasks": {
+        "module_name": "parameter sweep",
+        "solver_run": {
+            "license_and_hardware_request": {
+                "in_use": true,
+                "license_type": "CST legacy token",
+                "mpi": {
+                    "consistency_check": true,
+                    "num_different_mpi_nodes": 0,
+                    "num_local_mpi_nodes": 0,
+                    "num_mpi_nodes": 0
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": 0,
+                "num_physical_cores": -1,
+                "num_threads": 1024
+            },
+            "opt_par_run_id": 24,
+            "return_code": 1,
+            "solver_hwacc_usage": {
+                "info": "gathered from solver run",
+                "mpi": {
+                    "consistency_check": true,
+                    "num_different_mpi_nodes": 0,
+                    "num_local_mpi_nodes": 0,
+                    "num_mpi_nodes": 0
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": 0,
+                "num_threads_or_physical_cores": 12
+            },
+            "solver_used": "Solver_HF_TD",
+            "task_name": "solver run",
+            "time_info": {
+                "details": {
+                    "discretizer": 17,
+                    "solver": 44
+                },
+                "run_time": 66
+            }
+        }
+    },
+    "studio-version": "2022.0 Release from 2021-08-23 (change 895802)",
+    "version": 1
+}{
+    "date": "2024-11-19, 19:45:32, Hora estándar de Argentina",
+    "solver_runs_and_tasks": {
+        "module_name": "parameter sweep",
+        "solver_run": {
+            "license_and_hardware_request": {
+                "in_use": true,
+                "license_type": "CST legacy token",
+                "mpi": {
+                    "consistency_check": true,
+                    "num_different_mpi_nodes": 0,
+                    "num_local_mpi_nodes": 0,
+                    "num_mpi_nodes": 0
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": 0,
+                "num_physical_cores": -1,
+                "num_threads": 1024
+            },
+            "opt_par_run_id": 25,
+            "return_code": 1,
+            "solver_hwacc_usage": {
+                "info": "gathered from solver run",
+                "mpi": {
+                    "consistency_check": true,
+                    "num_different_mpi_nodes": 0,
+                    "num_local_mpi_nodes": 0,
+                    "num_mpi_nodes": 0
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": 0,
+                "num_threads_or_physical_cores": 12
+            },
+            "solver_used": "Solver_HF_TD",
+            "task_name": "solver run",
+            "time_info": {
+                "details": {
+                    "discretizer": 17,
+                    "solver": 16
+                },
+                "run_time": 36
+            }
+        }
+    },
+    "studio-version": "2022.0 Release from 2021-08-23 (change 895802)",
+    "version": 1
+}{
+    "date": "2024-11-19, 19:46:23, Hora estándar de Argentina",
+    "solver_runs_and_tasks": {
+        "module_name": "parameter sweep",
+        "solver_run": {
+            "license_and_hardware_request": {
+                "in_use": true,
+                "license_type": "CST legacy token",
+                "mpi": {
+                    "consistency_check": true,
+                    "num_different_mpi_nodes": 0,
+                    "num_local_mpi_nodes": 0,
+                    "num_mpi_nodes": 0
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": 0,
+                "num_physical_cores": -1,
+                "num_threads": 1024
+            },
+            "opt_par_run_id": 26,
+            "return_code": 1,
+            "solver_hwacc_usage": {
+                "info": "gathered from solver run",
+                "mpi": {
+                    "consistency_check": true,
+                    "num_different_mpi_nodes": 0,
+                    "num_local_mpi_nodes": 0,
+                    "num_mpi_nodes": 0
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": 0,
+                "num_threads_or_physical_cores": 12
+            },
+            "solver_used": "Solver_HF_TD",
+            "task_name": "solver run",
+            "time_info": {
+                "details": {
+                    "discretizer": 17,
+                    "solver": 27
+                },
+                "run_time": 48
+            }
+        }
+    },
+    "studio-version": "2022.0 Release from 2021-08-23 (change 895802)",
+    "version": 1
+}{
+    "date": "2024-11-19, 19:46:59, Hora estándar de Argentina",
+    "solver_runs_and_tasks": {
+        "module_name": "parameter sweep",
+        "solver_run": {
+            "license_and_hardware_request": {
+                "in_use": true,
+                "license_type": "CST legacy token",
+                "mpi": {
+                    "consistency_check": true,
+                    "num_different_mpi_nodes": 0,
+                    "num_local_mpi_nodes": 0,
+                    "num_mpi_nodes": 0
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": 0,
+                "num_physical_cores": -1,
+                "num_threads": 1024
+            },
+            "opt_par_run_id": 27,
+            "return_code": 1,
+            "solver_hwacc_usage": {
+                "info": "gathered from solver run",
+                "mpi": {
+                    "consistency_check": true,
+                    "num_different_mpi_nodes": 0,
+                    "num_local_mpi_nodes": 0,
+                    "num_mpi_nodes": 0
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": 0,
+                "num_threads_or_physical_cores": 12
+            },
+            "solver_used": "Solver_HF_TD",
+            "task_name": "solver run",
+            "time_info": {
+                "details": {
+                    "discretizer": 15,
+                    "solver": 17
+                },
+                "run_time": 35
+            }
+        }
+    },
+    "studio-version": "2022.0 Release from 2021-08-23 (change 895802)",
+    "version": 1
+}{
+    "date": "2024-11-19, 19:48:02, Hora estándar de Argentina",
+    "solver_runs_and_tasks": {
+        "module_name": "parameter sweep",
+        "solver_run": {
+            "license_and_hardware_request": {
+                "in_use": true,
+                "license_type": "CST legacy token",
+                "mpi": {
+                    "consistency_check": true,
+                    "num_different_mpi_nodes": 0,
+                    "num_local_mpi_nodes": 0,
+                    "num_mpi_nodes": 0
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": 0,
+                "num_physical_cores": -1,
+                "num_threads": 1024
+            },
+            "opt_par_run_id": 28,
+            "return_code": 1,
+            "solver_hwacc_usage": {
+                "info": "gathered from solver run",
+                "mpi": {
+                    "consistency_check": true,
+                    "num_different_mpi_nodes": 0,
+                    "num_local_mpi_nodes": 0,
+                    "num_mpi_nodes": 0
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": 0,
+                "num_threads_or_physical_cores": 12
+            },
+            "solver_used": "Solver_HF_TD",
+            "task_name": "solver run",
+            "time_info": {
+                "details": {
+                    "discretizer": 19,
+                    "solver": 38
+                },
+                "run_time": 61
+            }
+        }
+    },
+    "studio-version": "2022.0 Release from 2021-08-23 (change 895802)",
+    "version": 1
+}{
+    "date": "2024-11-19, 19:48:37, Hora estándar de Argentina",
+    "solver_runs_and_tasks": {
+        "module_name": "parameter sweep",
+        "solver_run": {
+            "license_and_hardware_request": {
+                "in_use": true,
+                "license_type": "CST legacy token",
+                "mpi": {
+                    "consistency_check": true,
+                    "num_different_mpi_nodes": 0,
+                    "num_local_mpi_nodes": 0,
+                    "num_mpi_nodes": 0
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": 0,
+                "num_physical_cores": -1,
+                "num_threads": 1024
+            },
+            "opt_par_run_id": 29,
+            "return_code": 1,
+            "solver_hwacc_usage": {
+                "info": "gathered from solver run",
+                "mpi": {
+                    "consistency_check": true,
+                    "num_different_mpi_nodes": 0,
+                    "num_local_mpi_nodes": 0,
+                    "num_mpi_nodes": 0
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": 0,
+                "num_threads_or_physical_cores": 12
+            },
+            "solver_used": "Solver_HF_TD",
+            "task_name": "solver run",
+            "time_info": {
+                "details": {
+                    "discretizer": 15,
+                    "solver": 14
+                },
+                "run_time": 33
             }
         }
     },
