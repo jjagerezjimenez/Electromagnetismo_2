@@ -1,441 +1,177 @@
-18/Nov/2024 23:30:18  ==========================================================================
+19/Nov/2024 17:54:24  ==========================================================================
                       Sequence: Sequence 1
                       ==========================================================================
 
-18/Nov/2024 23:30:18  --------------------------------------------------------------------------
+19/Nov/2024 17:54:24  --------------------------------------------------------------------------
                       Parameter Values: 
                       
                          Desp = 0
-18/Nov/2024 23:30:18  
+19/Nov/2024 17:54:24  
                       Structure update: Successful
-18/Nov/2024 23:31:13            Solver: Successful
-18/Nov/2024 23:31:13       Solver time: 0 hours, 0 min., 55 sec.
-18/Nov/2024 23:31:13  --------------------------------------------------------------------------
-                      Parameter Values: 
-                      
-                         Desp = 0.1
-18/Nov/2024 23:31:13  
-                      Structure update: Successful
-18/Nov/2024 23:32:08            Solver: Successful
-18/Nov/2024 23:32:08       Solver time: 0 hours, 0 min., 55 sec.
-18/Nov/2024 23:32:08  --------------------------------------------------------------------------
-                      Parameter Values: 
-                      
-                         Desp = 0.2
-18/Nov/2024 23:32:09  
-                      Structure update: Successful
-18/Nov/2024 23:33:02            Solver: Successful
-18/Nov/2024 23:33:02       Solver time: 0 hours, 0 min., 53 sec.
-18/Nov/2024 23:33:02  --------------------------------------------------------------------------
-                      Parameter Values: 
-                      
-                         Desp = 0.3
-18/Nov/2024 23:33:03  
-                      Structure update: Successful
-18/Nov/2024 23:33:54            Solver: Successful
-18/Nov/2024 23:33:54       Solver time: 0 hours, 0 min., 51 sec.
-18/Nov/2024 23:33:54  --------------------------------------------------------------------------
-                      Parameter Values: 
-                      
-                         Desp = 0.4
-18/Nov/2024 23:33:55  
-                      Structure update: Successful
-18/Nov/2024 23:34:46            Solver: Successful
-18/Nov/2024 23:34:46       Solver time: 0 hours, 0 min., 51 sec.
-18/Nov/2024 23:34:46  --------------------------------------------------------------------------
-                      Parameter Values: 
-                      
-                         Desp = 0.5
-18/Nov/2024 23:34:47  
-                      Structure update: Successful
-18/Nov/2024 23:35:46            Solver: Successful
-18/Nov/2024 23:35:46       Solver time: 0 hours, 0 min., 59 sec.
-18/Nov/2024 23:35:46  --------------------------------------------------------------------------
-                      Parameter Values: 
-                      
-                         Desp = 0.6
-18/Nov/2024 23:35:47  
-                      Structure update: Successful
-18/Nov/2024 23:36:45            Solver: Successful
-18/Nov/2024 23:36:45       Solver time: 0 hours, 0 min., 58 sec.
-18/Nov/2024 23:36:45  --------------------------------------------------------------------------
-                      Parameter Values: 
-                      
-                         Desp = 0.7
-18/Nov/2024 23:36:46  
-                      Structure update: Successful
-18/Nov/2024 23:37:30            Solver: Successful
-18/Nov/2024 23:37:30       Solver time: 0 hours, 0 min., 44 sec.
-18/Nov/2024 23:37:30  --------------------------------------------------------------------------
-                      Parameter Values: 
-                      
-                         Desp = 0.8
-18/Nov/2024 23:37:30  
-                      Structure update: Successful
-18/Nov/2024 23:38:26            Solver: Successful
-18/Nov/2024 23:38:26       Solver time: 0 hours, 0 min., 56 sec.
-18/Nov/2024 23:38:26  --------------------------------------------------------------------------
-                      Parameter Values: 
-                      
-                         Desp = 0.9
-18/Nov/2024 23:38:27  
-                      Structure update: Successful
-18/Nov/2024 23:39:20            Solver: Successful
-18/Nov/2024 23:39:20       Solver time: 0 hours, 0 min., 53 sec.
-18/Nov/2024 23:39:20  --------------------------------------------------------------------------
+19/Nov/2024 17:55:27            Solver: Successful
+19/Nov/2024 17:55:27       Solver time: 0 hours, 1 min., 3 sec.
+19/Nov/2024 17:55:27  --------------------------------------------------------------------------
                       Parameter Values: 
                       
                          Desp = 1
-18/Nov/2024 23:39:20  
+19/Nov/2024 17:55:28  
                       Structure update: Successful
-18/Nov/2024 23:40:11            Solver: Successful
-18/Nov/2024 23:40:11       Solver time: 0 hours, 0 min., 51 sec.
-18/Nov/2024 23:40:11  --------------------------------------------------------------------------
-                      Parameter Values: 
-                      
-                         Desp = 1.1
-18/Nov/2024 23:40:12  
-                      Structure update: Successful
-18/Nov/2024 23:41:03            Solver: Successful
-18/Nov/2024 23:41:03       Solver time: 0 hours, 0 min., 51 sec.
-18/Nov/2024 23:41:03  --------------------------------------------------------------------------
-                      Parameter Values: 
-                      
-                         Desp = 1.2
-18/Nov/2024 23:41:03  
-                      Structure update: Successful
-18/Nov/2024 23:41:55            Solver: Successful
-18/Nov/2024 23:41:55       Solver time: 0 hours, 0 min., 52 sec.
-18/Nov/2024 23:41:55  --------------------------------------------------------------------------
-                      Parameter Values: 
-                      
-                         Desp = 1.3
-18/Nov/2024 23:41:55  
-                      Structure update: Successful
-18/Nov/2024 23:42:47            Solver: Successful
-18/Nov/2024 23:42:47       Solver time: 0 hours, 0 min., 52 sec.
-18/Nov/2024 23:42:47  --------------------------------------------------------------------------
-                      Parameter Values: 
-                      
-                         Desp = 1.4
-18/Nov/2024 23:42:48  
-                      Structure update: Successful
-18/Nov/2024 23:43:46            Solver: Successful
-18/Nov/2024 23:43:46       Solver time: 0 hours, 0 min., 58 sec.
-18/Nov/2024 23:43:46  --------------------------------------------------------------------------
-                      Parameter Values: 
-                      
-                         Desp = 1.5
-18/Nov/2024 23:43:46  
-                      Structure update: Successful
-18/Nov/2024 23:44:45            Solver: Successful
-18/Nov/2024 23:44:45       Solver time: 0 hours, 0 min., 59 sec.
-18/Nov/2024 23:44:45  --------------------------------------------------------------------------
-                      Parameter Values: 
-                      
-                         Desp = 1.6
-18/Nov/2024 23:44:45  
-                      Structure update: Successful
-18/Nov/2024 23:45:44            Solver: Successful
-18/Nov/2024 23:45:44       Solver time: 0 hours, 0 min., 59 sec.
-18/Nov/2024 23:45:44  --------------------------------------------------------------------------
-                      Parameter Values: 
-                      
-                         Desp = 1.7
-18/Nov/2024 23:45:45  
-                      Structure update: Successful
-18/Nov/2024 23:46:16            Solver: Successful
-18/Nov/2024 23:46:16       Solver time: 0 hours, 0 min., 31 sec.
-18/Nov/2024 23:46:16  --------------------------------------------------------------------------
-                      Parameter Values: 
-                      
-                         Desp = 1.8
-18/Nov/2024 23:46:16  
-                      Structure update: Successful
-18/Nov/2024 23:46:46            Solver: Successful
-18/Nov/2024 23:46:46       Solver time: 0 hours, 0 min., 30 sec.
-18/Nov/2024 23:46:46  --------------------------------------------------------------------------
-                      Parameter Values: 
-                      
-                         Desp = 1.9
-18/Nov/2024 23:46:47  
-                      Structure update: Successful
-18/Nov/2024 23:47:14            Solver: Successful
-18/Nov/2024 23:47:14       Solver time: 0 hours, 0 min., 27 sec.
-18/Nov/2024 23:47:14  --------------------------------------------------------------------------
+19/Nov/2024 17:56:30            Solver: Successful
+19/Nov/2024 17:56:30       Solver time: 0 hours, 1 min., 2 sec.
+19/Nov/2024 17:56:30  --------------------------------------------------------------------------
                       Parameter Values: 
                       
                          Desp = 2
-18/Nov/2024 23:47:15  
+19/Nov/2024 17:56:30  
                       Structure update: Successful
-18/Nov/2024 23:47:42            Solver: Successful
-18/Nov/2024 23:47:42       Solver time: 0 hours, 0 min., 27 sec.
-18/Nov/2024 23:47:42  --------------------------------------------------------------------------
-                      Parameter Values: 
-                      
-                         Desp = 2.1
-18/Nov/2024 23:47:42  
-                      Structure update: Successful
-18/Nov/2024 23:48:11            Solver: Successful
-18/Nov/2024 23:48:11       Solver time: 0 hours, 0 min., 29 sec.
-18/Nov/2024 23:48:11  --------------------------------------------------------------------------
-                      Parameter Values: 
-                      
-                         Desp = 2.2
-18/Nov/2024 23:48:11  
-                      Structure update: Successful
-18/Nov/2024 23:48:38            Solver: Successful
-18/Nov/2024 23:48:38       Solver time: 0 hours, 0 min., 27 sec.
-18/Nov/2024 23:48:38  --------------------------------------------------------------------------
-                      Parameter Values: 
-                      
-                         Desp = 2.3
-18/Nov/2024 23:48:39  
-                      Structure update: Successful
-18/Nov/2024 23:49:07            Solver: Successful
-18/Nov/2024 23:49:07       Solver time: 0 hours, 0 min., 28 sec.
-18/Nov/2024 23:49:07  --------------------------------------------------------------------------
-                      Parameter Values: 
-                      
-                         Desp = 2.4
-18/Nov/2024 23:49:07  
-                      Structure update: Successful
-18/Nov/2024 23:49:36            Solver: Successful
-18/Nov/2024 23:49:36       Solver time: 0 hours, 0 min., 29 sec.
-18/Nov/2024 23:49:36  --------------------------------------------------------------------------
-                      Parameter Values: 
-                      
-                         Desp = 2.5
-18/Nov/2024 23:49:36  
-                      Structure update: Successful
-18/Nov/2024 23:50:04            Solver: Successful
-18/Nov/2024 23:50:04       Solver time: 0 hours, 0 min., 28 sec.
-18/Nov/2024 23:50:04  --------------------------------------------------------------------------
-                      Parameter Values: 
-                      
-                         Desp = 2.6
-18/Nov/2024 23:50:04  
-                      Structure update: Successful
-18/Nov/2024 23:50:32            Solver: Successful
-18/Nov/2024 23:50:32       Solver time: 0 hours, 0 min., 28 sec.
-18/Nov/2024 23:50:32  --------------------------------------------------------------------------
-                      Parameter Values: 
-                      
-                         Desp = 2.7
-18/Nov/2024 23:50:32  
-                      Structure update: Successful
-18/Nov/2024 23:51:01            Solver: Successful
-18/Nov/2024 23:51:01       Solver time: 0 hours, 0 min., 29 sec.
-18/Nov/2024 23:51:01  --------------------------------------------------------------------------
-                      Parameter Values: 
-                      
-                         Desp = 2.8
-18/Nov/2024 23:51:01  
-                      Structure update: Successful
-18/Nov/2024 23:51:29            Solver: Successful
-18/Nov/2024 23:51:29       Solver time: 0 hours, 0 min., 28 sec.
-18/Nov/2024 23:51:29  --------------------------------------------------------------------------
-                      Parameter Values: 
-                      
-                         Desp = 2.9
-18/Nov/2024 23:51:29  
-                      Structure update: Successful
-18/Nov/2024 23:51:58            Solver: Successful
-18/Nov/2024 23:51:58       Solver time: 0 hours, 0 min., 29 sec.
-18/Nov/2024 23:51:58  --------------------------------------------------------------------------
+19/Nov/2024 17:57:02            Solver: Successful
+19/Nov/2024 17:57:02       Solver time: 0 hours, 0 min., 32 sec.
+19/Nov/2024 17:57:02  --------------------------------------------------------------------------
                       Parameter Values: 
                       
                          Desp = 3
-18/Nov/2024 23:51:58  
+19/Nov/2024 17:57:02  
                       Structure update: Successful
-18/Nov/2024 23:52:26            Solver: Successful
-18/Nov/2024 23:52:26       Solver time: 0 hours, 0 min., 28 sec.
-18/Nov/2024 23:52:26  --------------------------------------------------------------------------
-                      Parameter Values: 
-                      
-                         Desp = 3.1
-18/Nov/2024 23:52:27  
-                      Structure update: Successful
-18/Nov/2024 23:52:54            Solver: Successful
-18/Nov/2024 23:52:54       Solver time: 0 hours, 0 min., 27 sec.
-18/Nov/2024 23:52:54  --------------------------------------------------------------------------
-                      Parameter Values: 
-                      
-                         Desp = 3.2
-18/Nov/2024 23:52:54  
-                      Structure update: Successful
-18/Nov/2024 23:53:22            Solver: Successful
-18/Nov/2024 23:53:22       Solver time: 0 hours, 0 min., 28 sec.
-18/Nov/2024 23:53:22  --------------------------------------------------------------------------
-                      Parameter Values: 
-                      
-                         Desp = 3.3
-18/Nov/2024 23:53:23  
-                      Structure update: Successful
-18/Nov/2024 23:53:51            Solver: Successful
-18/Nov/2024 23:53:51       Solver time: 0 hours, 0 min., 28 sec.
-18/Nov/2024 23:53:51  --------------------------------------------------------------------------
-                      Parameter Values: 
-                      
-                         Desp = 3.4
-18/Nov/2024 23:53:51  
-                      Structure update: Successful
-18/Nov/2024 23:54:18            Solver: Successful
-18/Nov/2024 23:54:18       Solver time: 0 hours, 0 min., 27 sec.
-18/Nov/2024 23:54:18  --------------------------------------------------------------------------
-                      Parameter Values: 
-                      
-                         Desp = 3.5
-18/Nov/2024 23:54:18  
-                      Structure update: Successful
-18/Nov/2024 23:54:47            Solver: Successful
-18/Nov/2024 23:54:47       Solver time: 0 hours, 0 min., 29 sec.
-18/Nov/2024 23:54:47  --------------------------------------------------------------------------
-                      Parameter Values: 
-                      
-                         Desp = 3.6
-18/Nov/2024 23:54:47  
-                      Structure update: Successful
-18/Nov/2024 23:55:16            Solver: Successful
-18/Nov/2024 23:55:16       Solver time: 0 hours, 0 min., 29 sec.
-18/Nov/2024 23:55:16  --------------------------------------------------------------------------
-                      Parameter Values: 
-                      
-                         Desp = 3.7
-18/Nov/2024 23:55:16  
-                      Structure update: Successful
-18/Nov/2024 23:55:45            Solver: Successful
-18/Nov/2024 23:55:45       Solver time: 0 hours, 0 min., 29 sec.
-18/Nov/2024 23:55:45  --------------------------------------------------------------------------
-                      Parameter Values: 
-                      
-                         Desp = 3.8
-18/Nov/2024 23:55:45  
-                      Structure update: Successful
-18/Nov/2024 23:56:16            Solver: Successful
-18/Nov/2024 23:56:16       Solver time: 0 hours, 0 min., 31 sec.
-18/Nov/2024 23:56:16  --------------------------------------------------------------------------
-                      Parameter Values: 
-                      
-                         Desp = 3.9
-18/Nov/2024 23:56:16  
-                      Structure update: Successful
-18/Nov/2024 23:57:04            Solver: Successful
-18/Nov/2024 23:57:04       Solver time: 0 hours, 0 min., 48 sec.
-18/Nov/2024 23:57:04  --------------------------------------------------------------------------
+19/Nov/2024 17:58:03            Solver: Successful
+19/Nov/2024 17:58:03       Solver time: 0 hours, 1 min., 1 sec.
+19/Nov/2024 17:58:03  --------------------------------------------------------------------------
                       Parameter Values: 
                       
                          Desp = 4
-18/Nov/2024 23:57:04  
+19/Nov/2024 17:58:03  
                       Structure update: Successful
-18/Nov/2024 23:57:54            Solver: Successful
-18/Nov/2024 23:57:54       Solver time: 0 hours, 0 min., 50 sec.
-18/Nov/2024 23:57:54  --------------------------------------------------------------------------
-                      Parameter Values: 
-                      
-                         Desp = 4.1
-18/Nov/2024 23:57:55  
-                      Structure update: Successful
-18/Nov/2024 23:58:40            Solver: Successful
-18/Nov/2024 23:58:40       Solver time: 0 hours, 0 min., 45 sec.
-18/Nov/2024 23:58:40  --------------------------------------------------------------------------
-                      Parameter Values: 
-                      
-                         Desp = 4.2
-18/Nov/2024 23:58:40  
-                      Structure update: Successful
-18/Nov/2024 23:59:24            Solver: Successful
-18/Nov/2024 23:59:24       Solver time: 0 hours, 0 min., 44 sec.
-18/Nov/2024 23:59:24  --------------------------------------------------------------------------
-                      Parameter Values: 
-                      
-                         Desp = 4.3
-18/Nov/2024 23:59:24  
-                      Structure update: Successful
-19/Nov/2024 00:00:08            Solver: Successful
-19/Nov/2024 00:00:08       Solver time: 0 hours, 0 min., 44 sec.
-19/Nov/2024 00:00:08  --------------------------------------------------------------------------
-                      Parameter Values: 
-                      
-                         Desp = 4.4
-19/Nov/2024 00:00:08  
-                      Structure update: Successful
-19/Nov/2024 00:00:52            Solver: Successful
-19/Nov/2024 00:00:52       Solver time: 0 hours, 0 min., 44 sec.
-19/Nov/2024 00:00:52  --------------------------------------------------------------------------
-                      Parameter Values: 
-                      
-                         Desp = 4.5
-19/Nov/2024 00:00:52  
-                      Structure update: Successful
-19/Nov/2024 00:01:38            Solver: Successful
-19/Nov/2024 00:01:38       Solver time: 0 hours, 0 min., 46 sec.
-19/Nov/2024 00:01:38  --------------------------------------------------------------------------
-                      Parameter Values: 
-                      
-                         Desp = 4.6
-19/Nov/2024 00:01:38  
-                      Structure update: Successful
-19/Nov/2024 00:02:27            Solver: Successful
-19/Nov/2024 00:02:27       Solver time: 0 hours, 0 min., 49 sec.
-19/Nov/2024 00:02:27  --------------------------------------------------------------------------
-                      Parameter Values: 
-                      
-                         Desp = 4.7
-19/Nov/2024 00:02:27  
-                      Structure update: Successful
-19/Nov/2024 00:03:20            Solver: Successful
-19/Nov/2024 00:03:20       Solver time: 0 hours, 0 min., 53 sec.
-19/Nov/2024 00:03:20  --------------------------------------------------------------------------
-                      Parameter Values: 
-                      
-                         Desp = 4.8
-19/Nov/2024 00:03:20  
-                      Structure update: Successful
-19/Nov/2024 00:04:08            Solver: Successful
-19/Nov/2024 00:04:08       Solver time: 0 hours, 0 min., 48 sec.
-19/Nov/2024 00:04:08  --------------------------------------------------------------------------
-                      Parameter Values: 
-                      
-                         Desp = 4.9
-19/Nov/2024 00:04:09  
-                      Structure update: Successful
-19/Nov/2024 00:04:35            Solver: Successful
-19/Nov/2024 00:04:35       Solver time: 0 hours, 0 min., 26 sec.
-19/Nov/2024 00:04:35  --------------------------------------------------------------------------
+19/Nov/2024 17:59:01            Solver: Successful
+19/Nov/2024 17:59:01       Solver time: 0 hours, 0 min., 58 sec.
+19/Nov/2024 17:59:01  --------------------------------------------------------------------------
                       Parameter Values: 
                       
                          Desp = 5
-19/Nov/2024 00:04:35  
+19/Nov/2024 17:59:02  
                       Structure update: Successful
-19/Nov/2024 00:05:27            Solver: Successful
-19/Nov/2024 00:05:27       Solver time: 0 hours, 0 min., 52 sec.
-19/Nov/2024 00:05:27  --------------------------------------------------------------------------
+19/Nov/2024 17:59:58            Solver: Successful
+19/Nov/2024 17:59:58       Solver time: 0 hours, 0 min., 56 sec.
+19/Nov/2024 17:59:58  --------------------------------------------------------------------------
                       Parameter Values: 
                       
-                         Desp = 5.1
-19/Nov/2024 00:05:27  
+                         Desp = 6
+19/Nov/2024 17:59:58  
                       Structure update: Successful
-19/Nov/2024 00:06:20            Solver: Successful
-19/Nov/2024 00:06:20       Solver time: 0 hours, 0 min., 53 sec.
-19/Nov/2024 00:06:20  --------------------------------------------------------------------------
+19/Nov/2024 18:00:50            Solver: Successful
+19/Nov/2024 18:00:50       Solver time: 0 hours, 0 min., 52 sec.
+19/Nov/2024 18:00:50  --------------------------------------------------------------------------
                       Parameter Values: 
                       
-                         Desp = 5.2
-19/Nov/2024 00:06:21  
+                         Desp = 7
+19/Nov/2024 18:00:51  
                       Structure update: Successful
-19/Nov/2024 00:07:13            Solver: Successful
-19/Nov/2024 00:07:13       Solver time: 0 hours, 0 min., 52 sec.
-19/Nov/2024 00:07:13  --------------------------------------------------------------------------
+19/Nov/2024 18:01:39            Solver: Successful
+19/Nov/2024 18:01:39       Solver time: 0 hours, 0 min., 48 sec.
+19/Nov/2024 18:01:39  --------------------------------------------------------------------------
                       Parameter Values: 
                       
-                         Desp = 5.25
-19/Nov/2024 00:07:13  
+                         Desp = 8
+19/Nov/2024 18:01:39  
                       Structure update: Successful
-19/Nov/2024 00:08:05            Solver: Successful
-19/Nov/2024 00:08:05       Solver time: 0 hours, 0 min., 52 sec.
-19/Nov/2024 00:08:05  --------------------------------------------------------------------------
-19/Nov/2024 00:08:05  
+19/Nov/2024 18:02:29            Solver: Successful
+19/Nov/2024 18:02:29       Solver time: 0 hours, 0 min., 50 sec.
+19/Nov/2024 18:02:29  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Desp = 9
+19/Nov/2024 18:02:30  
+                      Structure update: Successful
+19/Nov/2024 18:03:22            Solver: Successful
+19/Nov/2024 18:03:22       Solver time: 0 hours, 0 min., 52 sec.
+19/Nov/2024 18:03:22  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Desp = 10
+19/Nov/2024 18:03:22  
+                      Structure update: Successful
+19/Nov/2024 18:03:54            Solver: Successful
+19/Nov/2024 18:03:54       Solver time: 0 hours, 0 min., 32 sec.
+19/Nov/2024 18:03:54  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Desp = 11
+19/Nov/2024 18:03:55  
+                      Structure update: Successful
+19/Nov/2024 18:04:53            Solver: Successful
+19/Nov/2024 18:04:53       Solver time: 0 hours, 0 min., 58 sec.
+19/Nov/2024 18:04:53  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Desp = 12
+19/Nov/2024 18:04:53  
+                      Structure update: Successful
+19/Nov/2024 18:05:54            Solver: Successful
+19/Nov/2024 18:05:54       Solver time: 0 hours, 1 min., 1 sec.
+19/Nov/2024 18:05:54  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Desp = 13
+19/Nov/2024 18:05:55  
+                      Structure update: Successful
+19/Nov/2024 18:06:58            Solver: Successful
+19/Nov/2024 18:06:58       Solver time: 0 hours, 1 min., 3 sec.
+19/Nov/2024 18:06:58  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Desp = 14
+19/Nov/2024 18:06:58  
+                      Structure update: Successful
+19/Nov/2024 18:07:33            Solver: Successful
+19/Nov/2024 18:07:33       Solver time: 0 hours, 0 min., 35 sec.
+19/Nov/2024 18:07:33  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Desp = 15
+19/Nov/2024 18:07:33  
+                      Structure update: Successful
+19/Nov/2024 18:08:07            Solver: Successful
+19/Nov/2024 18:08:07       Solver time: 0 hours, 0 min., 34 sec.
+19/Nov/2024 18:08:07  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Desp = 16
+19/Nov/2024 18:08:08  
+                      Structure update: Successful
+19/Nov/2024 18:09:15            Solver: Successful
+19/Nov/2024 18:09:15       Solver time: 0 hours, 1 min., 7 sec.
+19/Nov/2024 18:09:15  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Desp = 17
+19/Nov/2024 18:09:15  
+                      Structure update: Successful
+19/Nov/2024 18:10:12            Solver: Successful
+19/Nov/2024 18:10:12       Solver time: 0 hours, 0 min., 57 sec.
+19/Nov/2024 18:10:12  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Desp = 18
+19/Nov/2024 18:10:12  
+                      Structure update: Successful
+19/Nov/2024 18:11:18            Solver: Successful
+19/Nov/2024 18:11:18       Solver time: 0 hours, 1 min., 6 sec.
+19/Nov/2024 18:11:18  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Desp = 19
+19/Nov/2024 18:11:18  
+                      Structure update: Successful
+19/Nov/2024 18:12:23            Solver: Successful
+19/Nov/2024 18:12:23       Solver time: 0 hours, 1 min., 5 sec.
+19/Nov/2024 18:12:23  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Desp = 20
+19/Nov/2024 18:12:24  
+                      Structure update: Successful
+19/Nov/2024 18:13:29            Solver: Successful
+19/Nov/2024 18:13:29       Solver time: 0 hours, 1 min., 5 sec.
+19/Nov/2024 18:13:29  --------------------------------------------------------------------------
+19/Nov/2024 18:13:29  
                       ==========================================================================
-                      Total evaluation time: 0 hours, 37 min., 29 sec.
+                      Total evaluation time: 0 hours, 18 min., 57 sec.
                       ==========================================================================

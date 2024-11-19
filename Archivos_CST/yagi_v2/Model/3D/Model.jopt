@@ -2,7 +2,40 @@
     "Optimizer": {
         "Goals": null,
         "Parameters": {
-            "Parameter List": null,
+            "Parameter List": [
+                {
+                    "Active": "False",
+                    "Anchors": "5",
+                    "Initial Value": "0",
+                    "Max Value": "0.1",
+                    "Min Value": "-0.1",
+                    "Parameter Name": "Corte_cable"
+                },
+                {
+                    "Active": "False",
+                    "Anchors": "5",
+                    "Initial Value": "20",
+                    "Max Value": "0.1",
+                    "Min Value": "-0.1",
+                    "Parameter Name": "Desp"
+                },
+                {
+                    "Active": "False",
+                    "Anchors": "5",
+                    "Initial Value": "0",
+                    "Max Value": "0.1",
+                    "Min Value": "-0.1",
+                    "Parameter Name": "D_Barra_L"
+                },
+                {
+                    "Active": "False",
+                    "Anchors": "5",
+                    "Initial Value": "0",
+                    "Max Value": "0.1",
+                    "Min Value": "-0.1",
+                    "Parameter Name": "D_Cilindro_ajuste"
+                }
+            ],
             "Range Percentage": "10",
             "Start From Current": "True"
         },

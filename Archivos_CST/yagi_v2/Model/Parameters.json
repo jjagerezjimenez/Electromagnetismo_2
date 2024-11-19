@@ -20,9 +20,9 @@
         },
         {
             "descr": "movimineto en las piezas",
-            "expr": "5.25",
+            "expr": "20",
             "name": "Desp",
-            "value": "5.25"
+            "value": "20"
         }
     ],
     "version": 1

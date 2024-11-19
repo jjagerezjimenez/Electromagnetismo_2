@@ -10,8 +10,8 @@
             "Sequence 1": [
                 {
                     "from": "0",
-                    "step width": "0.1",
-                    "to": "5.25",
+                    "step width": "1",
+                    "to": "20",
                     "type": "linear",
                     "varname": "Desp"
                 },
