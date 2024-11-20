@@ -1,0 +1,59 @@
+2700 0 2 0           
+20 CST MICROWAVE STUDIO 14 ACIS 27.0.2 NT 24 Mon Jun 17 12:41:43 2019 
+1 9.9999999999999995e-07 1e-10 
+T @52 U9B_WV7EJA_KUXTHDJ268X7Z36QCGBPH_CRVFC677A_VMC7EKCA4 
+face $2 -1 -1 $-1 $-1 $3 $-1 $-1 $4 reversed single F F #
+face $5 -1 -1 $-1 $-1 $6 $-1 $-1 $7 reversed single F F #
+named_attribute-st-attrib $-1 -1 $8 $-1 $0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ncomponent1:Beam1 #
+loop $-1 -1 -1 $-1 $-1 $9 $0 F unknown #
+plane-surface $-1 -1 -1 $-1 0 0 0 -0 0 1 -1 0 0 reverse_v I I I I #
+named_attribute-st-attrib $-1 -1 $10 $-1 $1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @19 ncomponent1:Beam1_1 #
+loop $-1 -1 -1 $-1 $-1 $11 $1 F unknown #
+plane-surface $-1 -1 -1 $-1 0 -4.2999999999999998 0 -0 0 1 1 0 0 forward_v I I I I #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $12 $2 $0 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 backwd_pickNumber 1 #
+coedge $-1 -1 -1 $-1 $13 $14 $-1 $15 reversed $3 $-1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $16 $5 $1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 backwd_pickNumber 1 #
+coedge $-1 -1 -1 $-1 $17 $18 $-1 $19 forward $6 $-1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $20 $8 $0 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 backwd_blockNumber 44 #
+coedge $-1 -1 -1 $-1 $21 $9 $-1 $22 reversed $3 $-1 #
+coedge $-1 -1 -1 $-1 $9 $21 $-1 $23 reversed $3 $-1 #
+edge $-1 -1 -1 $-1 $24 -2 $25 2 $9 $26 forward @7 unknown F #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $27 $10 $1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 backwd_blockNumber 45 #
+coedge $-1 -1 -1 $-1 $28 $11 $-1 $29 forward $6 $-1 #
+coedge $-1 -1 -1 $-1 $11 $28 $-1 $30 forward $6 $-1 #
+edge $-1 -1 -1 $-1 $31 -2 $32 2 $11 $33 forward @7 unknown F #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $12 $0 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 backwd_id 2 #
+coedge $-1 -1 -1 $-1 $14 $13 $-1 $34 reversed $3 $-1 #
+edge $-1 -1 -1 $-1 $35 -0.25 $24 0.25 $13 $36 forward @7 unknown F #
+edge $-1 -1 -1 $-1 $25 -0.25 $37 0.25 $14 $38 forward @7 unknown F #
+vertex $-1 -1 -1 $-1 $15 $39 #
+vertex $-1 -1 -1 $-1 $15 $40 #
+straight-curve $-1 -1 -1 $-1 -0.25 0 0 0 -1 0 I I #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $16 $1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 backwd_id 2 #
+coedge $-1 -1 -1 $-1 $18 $17 $-1 $41 forward $6 $-1 #
+edge $-1 -1 -1 $-1 $32 -0.25 $42 0.25 $17 $43 forward @7 unknown F #
+edge $-1 -1 -1 $-1 $44 -0.25 $31 0.25 $18 $45 forward @7 unknown F #
+vertex $-1 -1 -1 $-1 $19 $46 #
+vertex $-1 -1 -1 $-1 $19 $47 #
+straight-curve $-1 -1 -1 $-1 0.25 -4.2999999999999998 0 0 -1 0 I I #
+edge $-1 -1 -1 $-1 $37 -2 $35 2 $21 $48 forward @7 unknown F #
+vertex $-1 -1 -1 $-1 $22 $49 #
+straight-curve $-1 -1 -1 $-1 0 2 0 -1 0 0 I I #
+vertex $-1 -1 -1 $-1 $34 $50 #
+straight-curve $-1 -1 -1 $-1 0 -2 0 1 0 0 I I #
+point $-1 -1 -1 $-1 -0.25 2 0 #
+point $-1 -1 -1 $-1 -0.25 -2 0 #
+edge $-1 -1 -1 $-1 $42 -2 $44 2 $28 $51 forward @7 unknown F #
+vertex $-1 -1 -1 $-1 $41 $52 #
+straight-curve $-1 -1 -1 $-1 0 -6.2999999999999998 0 -1 0 0 I I #
+vertex $-1 -1 -1 $-1 $30 $53 #
+straight-curve $-1 -1 -1 $-1 0 -2.2999999999999998 0 1 0 0 I I #
+point $-1 -1 -1 $-1 0.25 -2.2999999999999998 0 #
+point $-1 -1 -1 $-1 0.25 -6.2999999999999998 0 #
+straight-curve $-1 -1 -1 $-1 0.25 0 0 -0 1 0 I I #
+point $-1 -1 -1 $-1 0.25 2 0 #
+point $-1 -1 -1 $-1 0.25 -2 0 #
+straight-curve $-1 -1 -1 $-1 -0.25 -4.2999999999999998 0 -0 1 0 I I #
+point $-1 -1 -1 $-1 -0.25 -6.2999999999999998 0 #
+point $-1 -1 -1 $-1 -0.25 -2.2999999999999998 0 #
+End-of-ACIS-data 

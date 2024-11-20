@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaGeometryFile creator="MatrixCalc" version="20151207">
+  <Components>
+    <Shape name="Components\component1:Beam1" id="1" visible="1" material="Aluminum" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="1 2 3 4 5 6"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Components\component1:Beam1_1" id="2" visible="1" material="Aluminum" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="7 8 9 10 11 12"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Components\component1:Element1" id="3" visible="1" material="Aluminum" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="13 14 15 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Components\component1:Element1_1" id="4" visible="1" material="Aluminum" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="16 17 18 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101 102 103 104 105 106 107 108 109 110 111 112"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Components\component1:Stud1" id="5" visible="1" material="Aluminum" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="19 20 21 22 23 24 25 26 27 28"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+  </Components>
+  <SimulationDomain min="-21.46846580505 -13.11346530914 -6.883464813232" max="21.46846580505 8.813465118408 65.93346405029"/>
+  <Materials>
+    <Material name="air_0" priority="1">
+      <Drawstyle color="1 1 1" linestrength="1" transparency="0"/>
+    </Material>
+    <Material name="Aluminum" priority="1">
+      <Drawstyle color="1 1 1" linestrength="1" transparency="0"/>
+    </Material>
+  </Materials>
+  <GeometryFile filename="3d.slm" type="slim" subdomain_id=""/>
+  <MeshType type="HEX"/>
+  <Groups/>
+  <HexMesh>
+    <Dimensions nx="33" ny="16" nz="60"/>
+    <MeshPlanesX values="-21.46846495455 -19.58907787406 -17.774715162 -16.734810108 -15.694905054 -14.655 -13.56 -12.465 -10.595 -9.006 -7.655 -6.507 -4.701 -3.397 -2.086 -1.046094946 0 1.039905054 2.086 3.397 4.701 6.507 7.655 9.006 10.595 12.465 13.56 14.655 15.694905054 16.734810108 17.774715162 19.58907787406 21.46846495455"/>
+    <MeshPlanesY values="-13.11346495455 -11.23407787406 -9.419715162 -8.379810108 -7.339905054 -6.3 -4.3 -2.3 -1.15 0 2 3.039905054 4.079810108 5.119715162 6.934077874061 8.813464954545"/>
+    <MeshPlanesZ values="-6.883464954545 -4.903143735786 -3.119715162 -2.079810108 -1.039905054 0 1.085 2.17 3.55 5.17 7.07 8.19 9.31 10.625 11.94 13.49 15.04 16.24333333333 17.44666666667 18.65 19.7275 20.805 21.8825 22.96 24.22 25.48 26.74 28 29.1925 30.385 31.5775 32.77 33.93 35.09 36.205 37.32 38.435 39.55 40.91 42.27 43.32 44.37 45.42 46.47 47.52 49.12 50.72 51.759905054 52.799810108 53.839715162 55.000284838 56.040189892 57.080094946 58.12 59.159905054 60.199810108 61.239715162 62.279620216 64.06185828518 65.93346495455"/>
+  </HexMesh>
+</MetaGeometryFile>

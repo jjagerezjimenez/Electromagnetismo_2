@@ -1,0 +1,174 @@
+Defined reference frequency for open boundary condition (11 GHz) is larger than
+the lowest relevant system frequency (monitor at 4 GHz).
+Please check open boundary settings to ensure accurate monitor results for the
+lowest frequency of interest.
+
+--------------------------------------------------------------------------------
+*** Warning ***
+
+This software is licensed for educational purposes only.
+
+--------------------------------------------------------------------------------
+*** Error ***
+
+This software is licensed for up to 30000 mesh cells only. The current mesh
+size exceeds this limit. Please reduce the mesh size accordingly.
+
+--------------------------------------------------------------------------------
+Defined reference frequency for open boundary condition (11 GHz) is larger than
+the lowest relevant system frequency (monitor at 4 GHz).
+Please check open boundary settings to ensure accurate monitor results for the
+lowest frequency of interest.
+
+--------------------------------------------------------------------------------
+*** Warning ***
+
+This software is licensed for educational purposes only.
+
+--------------------------------------------------------------------------------
+
+Solver started at: 06:51 AM Thursday, 14. March 2019
+
+  Module:  Time Domain: S-Parameter (Win 64)
+  Version: 2018.4 Release from 2018-04-06 (change 594284)
+
+
+
+--------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------
+======================================================================
+ Solver cycle: 1
+======================================================================
+
+Stimulation at discrete port 1 
+
+
+
+--------------------------------------------------------------------------------
+Units settings: 
+
+  Dimensions: mm
+  Frequency:  GHz
+  Time:       ns
+
+--------------------------------------------------------------------------------
+The following discrete edge port is connected to metal material:
+	1
+
+--------------------------------------------------------------------------------
+Mesh statistics:
+
+   Hexahedral mesh type: PBA [accuracy enhancement is enabled]
+
+   Parallelization type: domain decomposition
+      Number of parallel working threads: 1
+      Number of calculation domains used: 1
+
+   PBA fill limit: 98.81% (inverse)
+
+
+
+--------------------------------------------------------------------------------
+Boundary conditions: 
+
+  YZsymmetry: none
+  XZsymmetry: none
+  XYsymmetry: none
+
+  Xmin: expanded open, 4 Layer, depth 7.51755 mm
+  Xmax: expanded open, 4 Layer, depth 7.51755 mm
+
+  Ymin: expanded open, 4 Layer, depth 7.51755 mm
+  Ymax: expanded open, 4 Layer, depth 7.51755 mm
+
+  Zmin: expanded open, 4 Layer, depth 7.92128 mm
+  Zmax: expanded open, 4 Layer, depth 7.48643 mm
+
+  PML-Type: Convolution PML
+
+--------------------------------------------------------------------------------
+Frequency settings: 
+
+  Fmin:         4
+  Fmax:         18
+  Nfsteps(lin): 1001
+
+--------------------------------------------------------------------------------
+Port: 1
+
+  Discrete element, reference impedance = 50 Ohm
+
+--------------------------------------------------------------------------------
+Field update statistics:
+
+  Number of components in total: 	179785
+  Number of lossy metal components:	2547
+
+Subcycling state:      Automatically deactivated
+
+--------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+Steady state energy criterion met, solver finished successfully.
+
+--------------------------------------------------------------------------------
+Frequency domain results normalized to default signal.
+
+
+--------------------------------------------------------------------------------
+
+  ----------------------------------------------------------------------------
+                      Peak memory used (kB)         Free physical memory (kB) 
+                                                    At begin     Minimum      
+  ----------------------------------------------------------------------------
+  CAD preparation     18672                         4517928      4517928      
+  Matrices calc.      35580                         4495404      4488664      
+  Solver run total    40340                         4568776      4490620      
+  ----------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+Solver Statistics:
+
+  Hardware:
+     Computer name:                 	DESKTOP-QSIU04L 
+
+     Number of CPU threads:             2
+     Hardware info:                  	Hardware Accelerator Device not activated
+
+  Number of mesh cells:             	28320
+  Excitation duration:              	5.07792678e-001 ns 
+  Calculation time for excitation:  	1 	s
+  Number of calculated pulse widths:	2.76018 
+  Steady state accuracy limit:      	-30	dB 
+  Simulated number of time steps:   	1173 
+  Maximum number of time steps:     	8499 
+  Time step width:
+     without subcycles:             	1.19488507e-003 ns
+     used:                          	1.19488507e-003 ns
+
+  CAD preparation time:          	1      	s
+  Matrix calculation time:          	14 	s
+  Solver setup time:                	5 	s
+  Solver loop time:                 	4 	s
+  Solver post processing time:      	1 	s
+                                    	------------
+  Total solver time:                	25 	s
+
+--------------------------------------------------------------------------------
+
+  Adaptive port meshing time:       	0      	s
+  Total solver time (all cycles):   	26     	s
+                                    	------------
+  Total simulation time:            	26     	s
+
+--------------------------------------------------------------------------------
+Solver finished at: 06:51 AM Thursday, 14. March 2019
+
+
+
+--------------------------------------------------------------------------------
