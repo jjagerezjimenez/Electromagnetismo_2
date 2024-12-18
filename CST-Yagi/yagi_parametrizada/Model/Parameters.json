@@ -1,0 +1,35 @@
+{
+    "parameters": [
+        {
+            "descr": "cm de cable que quiero cortar",
+            "expr": "1.5",
+            "name": "Corte_cable",
+            "value": "1.5"
+        },
+        {
+            "descr": "movimineto en las piezas",
+            "expr": "4",
+            "name": "Desp",
+            "value": "4"
+        },
+        {
+            "descr": "ajuste fino para las varilla a resonancia 1GHZ",
+            "expr": "0.37",
+            "name": "ajuste_fino",
+            "value": "0.37"
+        },
+        {
+            "descr": "desplazamiento de la barra lateral",
+            "expr": "0",
+            "name": "barra",
+            "value": "0"
+        },
+        {
+            "descr": "desplazamiento del cilindro",
+            "expr": "0",
+            "name": "cilindro",
+            "value": "0"
+        }
+    ],
+    "version": 1
+}
